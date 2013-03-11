@@ -1,0 +1,2584 @@
+<plugins>
+  <plugin name='functional-test' latest-release='2.0.M2'>
+    <release version='1.1'>
+      <title>Functional Testing</title>
+      <author>Marc Palmer</author>
+      <authorEmail>marc@grailsrocks.com</authorEmail>
+      <description>Simple 'pure grails' functional testing for your web applications
+</description>
+      <file>http://plugins.grails.org/grails-functional-test/tags/RELEASE_1_1/grails-functional-test-1.1.zip</file>
+    </release>
+    <release version='2.0.M2'>
+      <title>Functional Testing</title>
+      <author>Marc Palmer</author>
+      <authorEmail>marc@grailsrocks.com</authorEmail>
+      <description>Simple 'pure grails' functional testing for your web applications
+</description>
+      <file>http://plugins.grails.org/grails-functional-test/tags/RELEASE_2_0_M2/grails-functional-test-2.0.M2.zip</file>
+    </release>
+    <release version='1.2'>
+      <title>Functional Testing</title>
+      <author>Marc Palmer</author>
+      <authorEmail>marc@grailsrocks.com</authorEmail>
+      <description>Simple 'pure grails' functional testing for your web applications
+</description>
+      <file>http://plugins.grails.org/grails-functional-test/tags/RELEASE_1_2/grails-functional-test-1.2.zip</file>
+    </release>
+    <release version='1.2.7'>
+      <title>Functional Testing</title>
+      <author>Marc Palmer</author>
+      <authorEmail>marc@grailsrocks.com</authorEmail>
+      <description>Simple 'pure grails' functional testing for your web applications
+</description>
+      <file>http://plugins.grails.org/grails-functional-test/tags/RELEASE_1_2_7/grails-functional-test-1.2.7.zip</file>
+    </release>
+    <release version='2.0-M1'>
+      <title>Functional Testing</title>
+      <author>Marc Palmer</author>
+      <authorEmail>marc@grailsrocks.com</authorEmail>
+      <description>Simple 'pure grails' functional testing for your web applications
+</description>
+      <file>http://plugins.grails.org/grails-functional-test/tags/RELEASE_2_0-M1/grails-functional-test-2.0-M1.zip</file>
+    </release>
+    <release version='1.2.2'>
+      <title>Functional Testing</title>
+      <author>Marc Palmer</author>
+      <authorEmail>marc@grailsrocks.com</authorEmail>
+      <description>Simple 'pure grails' functional testing for your web applications
+</description>
+      <file>http://plugins.grails.org/grails-functional-test/tags/RELEASE_1_2_2/grails-functional-test-1.2.2.zip</file>
+    </release>
+    <release version='1.2.6'>
+      <title>Functional Testing</title>
+      <author>Marc Palmer</author>
+      <authorEmail>marc@grailsrocks.com</authorEmail>
+      <description>Simple 'pure grails' functional testing for your web applications
+</description>
+      <file>http://plugins.grails.org/grails-functional-test/tags/RELEASE_1_2_6/grails-functional-test-1.2.6.zip</file>
+    </release>
+    <release version='1.3-SNAPSHOT'>
+      <title>Functional Testing</title>
+      <author>Marc Palmer</author>
+      <authorEmail>marc@grailsrocks.com</authorEmail>
+      <description>Simple 'pure grails' functional testing for your web applications
+</description>
+      <file>http://plugins.grails.org/grails-functional-test/tags/RELEASE_1_3-SNAPSHOT/grails-functional-test-1.3-SNAPSHOT.zip</file>
+    </release>
+    <release version='1.2.1'>
+      <title>Functional Testing</title>
+      <author>Marc Palmer</author>
+      <authorEmail>marc@grailsrocks.com</authorEmail>
+      <description>Simple 'pure grails' functional testing for your web applications
+</description>
+      <file>http://plugins.grails.org/grails-functional-test/tags/RELEASE_1_2_1/grails-functional-test-1.2.1.zip</file>
+    </release>
+    <release version='2.0.SNAPSHOT'>
+      <title>Functional Testing</title>
+      <author>Marc Palmer</author>
+      <authorEmail>marc@grailsrocks.com</authorEmail>
+      <description>Simple 'pure grails' functional testing for your web applications
+</description>
+      <file>http://plugins.grails.org/grails-functional-test/tags/RELEASE_2_0_SNAPSHOT/grails-functional-test-2.0.SNAPSHOT.zip</file>
+    </release>
+    <release version='2.0-SNAPSHOT'>
+      <title>Functional Testing</title>
+      <author>Marc Palmer</author>
+      <authorEmail>marc@grailsrocks.com</authorEmail>
+      <description>Simple 'pure grails' functional testing for your web applications
+</description>
+      <file>http://plugins.grails.org/grails-functional-test/tags/RELEASE_2_0-SNAPSHOT/grails-functional-test-2.0-SNAPSHOT.zip</file>
+    </release>
+    <release version='1.3-RC1'>
+      <title>Functional Testing</title>
+      <author>Marc Palmer</author>
+      <authorEmail>marc@grailsrocks.com</authorEmail>
+      <description>Simple 'pure grails' functional testing for your web applications
+</description>
+      <file>http://plugins.grails.org/grails-functional-test/tags/RELEASE_1_3-RC1/grails-functional-test-1.3-RC1.zip</file>
+    </release>
+    <release version='1.2.4'>
+      <title>Functional Testing</title>
+      <author>Marc Palmer</author>
+      <authorEmail>marc@grailsrocks.com</authorEmail>
+      <description>Simple 'pure grails' functional testing for your web applications
+</description>
+      <file>http://plugins.grails.org/grails-functional-test/tags/RELEASE_1_2_4/grails-functional-test-1.2.4.zip</file>
+    </release>
+    <release version='1.0'>
+      <title>Functional Testing</title>
+      <author>Marc Palmer</author>
+      <authorEmail>marc@grailsrocks.com</authorEmail>
+      <description>Simple 'pure grails' functional testing for your web applications
+</description>
+      <file>http://plugins.grails.org/grails-functional-test/tags/RELEASE_1_0/grails-functional-test-1.0.zip</file>
+    </release>
+    <release version='1.2.5'>
+      <title>Functional Testing</title>
+      <author>Marc Palmer</author>
+      <authorEmail>marc@grailsrocks.com</authorEmail>
+      <description>Simple 'pure grails' functional testing for your web applications
+</description>
+      <file>http://plugins.grails.org/grails-functional-test/tags/RELEASE_1_2_5/grails-functional-test-1.2.5.zip</file>
+    </release>
+    <release version='1.2.3'>
+      <title>Functional Testing</title>
+      <author>Marc Palmer</author>
+      <authorEmail>marc@grailsrocks.com</authorEmail>
+      <description>Simple 'pure grails' functional testing for your web applications
+</description>
+      <file>http://plugins.grails.org/grails-functional-test/tags/RELEASE_1_2_3/grails-functional-test-1.2.3.zip</file>
+    </release>
+  </plugin>
+  <plugin name='testing' latest-release='0.5'>
+    <release version='0.4'>
+      <title>Testing Plugin</title>
+      <author>pledbrook</author>
+      <authorEmail>p.ledbrook@cacoethes.co.uk</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-testing/tags/RELEASE_0_4/grails-testing-0.4.zip</file>
+    </release>
+    <release version='0.2'>
+      <title>Testing Plugin</title>
+      <author>pledbrook</author>
+      <authorEmail>p.ledbrook@cacoethes.co.uk</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-testing/tags/RELEASE_0_2/grails-testing-0.2.zip</file>
+    </release>
+    <release version='0.5'>
+      <title>Testing Plugin</title>
+      <author>pledbrook</author>
+      <authorEmail>p.ledbrook@cacoethes.co.uk</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-testing/tags/RELEASE_0_5/grails-testing-0.5.zip</file>
+    </release>
+    <release version='0.3'>
+      <title>Testing Plugin</title>
+      <author>pledbrook</author>
+      <authorEmail>p.ledbrook@cacoethes.co.uk</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-testing/tags/RELEASE_0_3/grails-testing-0.3.zip</file>
+    </release>
+    <release version='0.1'>
+      <title>Testing Plugin</title>
+      <author>pledbrook</author>
+      <authorEmail>p.ledbrook@cacoethes.co.uk</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-testing/tags/RELEASE_0_1/grails-testing-0.1.zip</file>
+    </release>
+  </plugin>
+  <plugin name='code-coverage' latest-release='1.2.5'>
+    <release version='0.4'>
+      <title>Test Code Coverage Plugin</title>
+      <author>mjhugo</author>
+      <authorEmail>mike@piragua.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-code-coverage/tags/RELEASE_0_4/grails-code-coverage-0.4.zip</file>
+    </release>
+    <release version='1.1.2'>
+      <title>Test Code Coverage Plugin</title>
+      <author>mjhugo</author>
+      <authorEmail>mike@piragua.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-code-coverage/tags/RELEASE_1_1_2/grails-code-coverage-1.1.2.zip</file>
+    </release>
+    <release version='0.8.2'>
+      <title>Test Code Coverage Plugin</title>
+      <author>mjhugo</author>
+      <authorEmail>mike@piragua.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-code-coverage/tags/RELEASE_0_8_2/grails-code-coverage-0.8.2.zip</file>
+    </release>
+    <release version='0.8.5'>
+      <title>Test Code Coverage Plugin</title>
+      <author>mjhugo</author>
+      <authorEmail>mike@piragua.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-code-coverage/tags/RELEASE_0_8_5/grails-code-coverage-0.8.5.zip</file>
+    </release>
+    <release version='1.2.2'>
+      <title>Test Code Coverage Plugin</title>
+      <author>mjhugo</author>
+      <authorEmail>mike@piragua.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-code-coverage/tags/RELEASE_1_2_2/grails-code-coverage-1.2.2.zip</file>
+    </release>
+    <release version='0.2'>
+      <title>Test Code Coverage Plugin</title>
+      <author>mjhugo</author>
+      <authorEmail>mike@piragua.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-code-coverage/tags/RELEASE_0_2/grails-code-coverage-0.2.zip</file>
+    </release>
+    <release version='0.8.3'>
+      <title>Test Code Coverage Plugin</title>
+      <author>mjhugo</author>
+      <authorEmail>mike@piragua.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-code-coverage/tags/RELEASE_0_8_3/grails-code-coverage-0.8.3.zip</file>
+    </release>
+    <release version='1.2.4'>
+      <title>Test Code Coverage Plugin</title>
+      <author>mjhugo</author>
+      <authorEmail>mike@piragua.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-code-coverage/tags/RELEASE_1_2_4/grails-code-coverage-1.2.4.zip</file>
+    </release>
+    <release version='1.2.1'>
+      <title>Test Code Coverage Plugin</title>
+      <author>mjhugo</author>
+      <authorEmail>mike@piragua.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-code-coverage/tags/RELEASE_1_2_1/grails-code-coverage-1.2.1.zip</file>
+    </release>
+    <release version='0.3'>
+      <title>Test Code Coverage Plugin</title>
+      <author>mjhugo</author>
+      <authorEmail>mike@piragua.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-code-coverage/tags/RELEASE_0_3/grails-code-coverage-0.3.zip</file>
+    </release>
+    <release version='0.7'>
+      <title>Test Code Coverage Plugin</title>
+      <author>mjhugo</author>
+      <authorEmail>mike@piragua.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-code-coverage/tags/RELEASE_0_7/grails-code-coverage-0.7.zip</file>
+    </release>
+    <release version='1.1.5'>
+      <title>Test Code Coverage Plugin</title>
+      <author>mjhugo</author>
+      <authorEmail>mike@piragua.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-code-coverage/tags/RELEASE_1_1_5/grails-code-coverage-1.1.5.zip</file>
+    </release>
+    <release version='1.1.6'>
+      <title>Test Code Coverage Plugin</title>
+      <author>mjhugo</author>
+      <authorEmail>mike@piragua.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-code-coverage/tags/RELEASE_1_1_6/grails-code-coverage-1.1.6.zip</file>
+    </release>
+    <release version='1.2.5'>
+      <title>Test Code Coverage Plugin</title>
+      <author>mjhugo</author>
+      <authorEmail>mike@piragua.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-code-coverage/tags/RELEASE_1_2_5/grails-code-coverage-1.2.5.zip</file>
+    </release>
+    <release version='0.8.4'>
+      <title>Test Code Coverage Plugin</title>
+      <author>mjhugo</author>
+      <authorEmail>mike@piragua.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-code-coverage/tags/RELEASE_0_8_4/grails-code-coverage-0.8.4.zip</file>
+    </release>
+    <release version='1.2.3'>
+      <title>Test Code Coverage Plugin</title>
+      <author>mjhugo</author>
+      <authorEmail>mike@piragua.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-code-coverage/tags/RELEASE_1_2_3/grails-code-coverage-1.2.3.zip</file>
+    </release>
+    <release version='1.1.1'>
+      <title>Test Code Coverage Plugin</title>
+      <author>mjhugo</author>
+      <authorEmail>mike@piragua.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-code-coverage/tags/RELEASE_1_1_1/grails-code-coverage-1.1.1.zip</file>
+    </release>
+    <release version='0.8'>
+      <title>Test Code Coverage Plugin</title>
+      <author>mjhugo</author>
+      <authorEmail>mike@piragua.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-code-coverage/tags/RELEASE_0_8/grails-code-coverage-0.8.zip</file>
+    </release>
+    <release version='1.2'>
+      <title>Test Code Coverage Plugin</title>
+      <author>mjhugo</author>
+      <authorEmail>mike@piragua.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-code-coverage/tags/RELEASE_1_2/grails-code-coverage-1.2.zip</file>
+    </release>
+    <release version='1.1.8'>
+      <title>Test Code Coverage Plugin</title>
+      <author>mjhugo</author>
+      <authorEmail>mike@piragua.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-code-coverage/tags/RELEASE_1_1_8/grails-code-coverage-1.1.8.zip</file>
+    </release>
+    <release version='1.1.4'>
+      <title>Test Code Coverage Plugin</title>
+      <author>mjhugo</author>
+      <authorEmail>mike@piragua.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-code-coverage/tags/RELEASE_1_1_4/grails-code-coverage-1.1.4.zip</file>
+    </release>
+    <release version='1.1.0'>
+      <title>Test Code Coverage Plugin</title>
+      <author>mjhugo</author>
+      <authorEmail>mike@piragua.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-code-coverage/tags/RELEASE_1_1_0/grails-code-coverage-1.1.0.zip</file>
+    </release>
+    <release version='0.5'>
+      <title>Test Code Coverage Plugin</title>
+      <author>mjhugo</author>
+      <authorEmail>mike@piragua.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-code-coverage/tags/RELEASE_0_5/grails-code-coverage-0.5.zip</file>
+    </release>
+    <release version='0.4.1'>
+      <title>Test Code Coverage Plugin</title>
+      <author>mjhugo</author>
+      <authorEmail>mike@piragua.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-code-coverage/tags/RELEASE_0_4_1/grails-code-coverage-0.4.1.zip</file>
+    </release>
+    <release version='1.1.3'>
+      <title>Test Code Coverage Plugin</title>
+      <author>mjhugo</author>
+      <authorEmail>mike@piragua.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-code-coverage/tags/RELEASE_1_1_3/grails-code-coverage-1.1.3.zip</file>
+    </release>
+    <release version='0.6'>
+      <title>Test Code Coverage Plugin</title>
+      <author>mjhugo</author>
+      <authorEmail>mike@piragua.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-code-coverage/tags/RELEASE_0_6/grails-code-coverage-0.6.zip</file>
+    </release>
+    <release version='0.9'>
+      <title>Test Code Coverage Plugin</title>
+      <author>mjhugo</author>
+      <authorEmail>mike@piragua.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-code-coverage/tags/RELEASE_0_9/grails-code-coverage-0.9.zip</file>
+    </release>
+    <release version='1.1.7'>
+      <title>Test Code Coverage Plugin</title>
+      <author>mjhugo</author>
+      <authorEmail>mike@piragua.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-code-coverage/tags/RELEASE_1_1_7/grails-code-coverage-1.1.7.zip</file>
+    </release>
+    <release version='0.8.1'>
+      <title>Test Code Coverage Plugin</title>
+      <author>mjhugo</author>
+      <authorEmail>mike@piragua.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-code-coverage/tags/RELEASE_0_8_1/grails-code-coverage-0.8.1.zip</file>
+    </release>
+  </plugin>
+  <plugin name='selenium' latest-release='0.8'>
+    <release version='0.8'>
+      <title>Selenium plugin</title>
+      <author>prule</author>
+      <authorEmail>paulrule1@gmail.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-selenium/tags/RELEASE_0_8/grails-selenium-0.8.zip</file>
+    </release>
+    <release version='0.6'>
+      <title>Selenium plugin</title>
+      <author>prule</author>
+      <authorEmail>paulrule1@gmail.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-selenium/tags/RELEASE_0_6/grails-selenium-0.6.zip</file>
+    </release>
+    <release version='0.4'>
+      <title>Selenium plugin</title>
+      <author>prule</author>
+      <authorEmail>paulrule1@gmail.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-selenium/tags/RELEASE_0_4/grails-selenium-0.4.zip</file>
+    </release>
+    <release version='0.5'>
+      <title>Selenium plugin</title>
+      <author>prule</author>
+      <authorEmail>paulrule1@gmail.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-selenium/tags/RELEASE_0_5/grails-selenium-0.5.zip</file>
+    </release>
+  </plugin>
+  <plugin name='jsunit' latest-release='0.7'>
+    <release version='0.2'>
+      <title>jsUnit plugin</title>
+      <author>prule</author>
+      <authorEmail>paul@javathinking.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-jsunit/tags/RELEASE_0_2/grails-jsunit-0.2.zip</file>
+    </release>
+    <release version='0.3'>
+      <title>jsUnit plugin</title>
+      <author>prule</author>
+      <authorEmail>paul@javathinking.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-jsunit/tags/RELEASE_0_4/grails-jsunit-0.3.zip</file>
+    </release>
+    <release version='0.7'>
+      <title>jsUnit plugin</title>
+      <author>prule</author>
+      <authorEmail>paul@javathinking.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-jsunit/tags/RELEASE_0_7/grails-jsunit-0.7.zip</file>
+    </release>
+  </plugin>
+  <plugin name='dbunit' latest-release='' />
+  <plugin name='debug' latest-release='1.0.2'>
+    <release version='1.0.2'>
+      <title>Debug Plugin</title>
+      <author>Marc Palmer</author>
+      <authorEmail>marc@grailsrocks.com</authorEmail>
+      <description>Adds useful debug output tools to your app.</description>
+      <file>http://plugins.grails.org/grails-debug/tags/RELEASE_1_0_2/grails-debug-1.0.2.zip</file>
+    </release>
+    <release version='1.0.1'>
+      <title>Debug Plugin</title>
+      <author>Marc Palmer</author>
+      <authorEmail>marc@grailsrocks.com</authorEmail>
+      <description>Adds useful debug output tools to your app.</description>
+      <file>http://plugins.grails.org/grails-debug/tags/RELEASE_1_0_1/grails-debug-1.0.1.zip</file>
+    </release>
+    <release version='1.0'>
+      <title>Debug Plugin</title>
+      <author>Marc Palmer</author>
+      <authorEmail>marc@grailsrocks.com</authorEmail>
+      <description>Adds useful debug output tools to your app.</description>
+      <file>http://plugins.grails.org/grails-debug/tags/RELEASE_1_0/grails-debug-1.0.zip</file>
+    </release>
+  </plugin>
+  <plugin name='fixtures' latest-release='1.2'>
+    <release version='0.7-RC1'>
+      <title>Grails Fixtures Plugin</title>
+      <author>Grails Plugin Collective</author>
+      <authorEmail>grails.plugin.collective@gmail.com</authorEmail>
+      <description>Load complex domain data via a simple DSL</description>
+      <file>http://plugins.grails.org/grails-fixtures/tags/RELEASE_0_7-RC1/grails-fixtures-0.7-RC1.zip</file>
+    </release>
+    <release version='1.0.RC1.SNAPSHOT'>
+      <title>Grails Fixtures Plugin</title>
+      <author>Grails Plugin Collective</author>
+      <authorEmail>grails.plugin.collective@gmail.com</authorEmail>
+      <description>Load complex domain data via a simple DSL</description>
+      <file>http://plugins.grails.org/grails-fixtures/tags/RELEASE_1_0_RC1_SNAPSHOT/grails-fixtures-1.0.RC1.SNAPSHOT.zip</file>
+    </release>
+    <release version='1.0-M2-SNAPSHOT'>
+      <title>Grails Fixtures Plugin</title>
+      <author>Grails Plugin Collective</author>
+      <authorEmail>grails.plugin.collective@gmail.com</authorEmail>
+      <description>Load complex domain data via a simple DSL</description>
+      <file>http://plugins.grails.org/grails-fixtures/tags/RELEASE_1_0-M2-SNAPSHOT/grails-fixtures-1.0-M2-SNAPSHOT.zip</file>
+    </release>
+    <release version='1.1'>
+      <title>Grails Fixtures Plugin</title>
+      <author>Grails Plugin Collective</author>
+      <authorEmail>grails.plugin.collective@gmail.com</authorEmail>
+      <description>Load complex domain data via a simple DSL</description>
+      <file>http://plugins.grails.org/grails-fixtures/tags/RELEASE_1_1/grails-fixtures-1.1.zip</file>
+    </release>
+    <release version='0.4'>
+      <title>Grails Fixtures Plugin</title>
+      <author>Grails Plugin Collective</author>
+      <authorEmail>grails.plugin.collective@gmail.com</authorEmail>
+      <description>Load complex domain data via a simple DSL</description>
+      <file>http://plugins.grails.org/grails-fixtures/tags/RELEASE_0_4/grails-fixtures-0.4.zip</file>
+    </release>
+    <release version='1.0.7'>
+      <title>Grails Fixtures Plugin</title>
+      <author>Grails Plugin Collective</author>
+      <authorEmail>grails.plugin.collective@gmail.com</authorEmail>
+      <description>Load complex domain data via a simple DSL</description>
+      <file>http://plugins.grails.org/grails-fixtures/tags/RELEASE_1_0_7/grails-fixtures-1.0.7.zip</file>
+    </release>
+    <release version='1.0-M3-SNAPSHOT'>
+      <title>Grails Fixtures Plugin</title>
+      <author>Grails Plugin Collective</author>
+      <authorEmail>grails.plugin.collective@gmail.com</authorEmail>
+      <description>Load complex domain data via a simple DSL</description>
+      <file>http://plugins.grails.org/grails-fixtures/tags/RELEASE_1_0-M3-SNAPSHOT/grails-fixtures-1.0-M3-SNAPSHOT.zip</file>
+    </release>
+    <release version='0.9-RC1'>
+      <title>Grails Fixtures Plugin</title>
+      <author>Grails Plugin Collective</author>
+      <authorEmail>grails.plugin.collective@gmail.com</authorEmail>
+      <description>Load complex domain data via a simple DSL</description>
+      <file>http://plugins.grails.org/grails-fixtures/tags/RELEASE_0_9-RC1/grails-fixtures-0.9-RC1.zip</file>
+    </release>
+    <release version='0.8'>
+      <title>Grails Fixtures Plugin</title>
+      <author>Grails Plugin Collective</author>
+      <authorEmail>grails.plugin.collective@gmail.com</authorEmail>
+      <description>Load complex domain data via a simple DSL</description>
+      <file>http://plugins.grails.org/grails-fixtures/tags/RELEASE_0_8/grails-fixtures-0.8.zip</file>
+    </release>
+    <release version='1.1-SNAPSHOT'>
+      <title>Grails Fixtures Plugin</title>
+      <author>Grails Plugin Collective</author>
+      <authorEmail>grails.plugin.collective@gmail.com</authorEmail>
+      <description>Load complex domain data via a simple DSL</description>
+      <file>http://plugins.grails.org/grails-fixtures/tags/RELEASE_1_1-SNAPSHOT/grails-fixtures-1.1-SNAPSHOT.zip</file>
+    </release>
+    <release version='1.0.6'>
+      <title>Grails Fixtures Plugin</title>
+      <author>Grails Plugin Collective</author>
+      <authorEmail>grails.plugin.collective@gmail.com</authorEmail>
+      <description>Load complex domain data via a simple DSL</description>
+      <file>http://plugins.grails.org/grails-fixtures/tags/RELEASE_1_0_6/grails-fixtures-1.0.6.zip</file>
+    </release>
+    <release version='0.7'>
+      <title>Grails Fixtures Plugin</title>
+      <author>Grails Plugin Collective</author>
+      <authorEmail>grails.plugin.collective@gmail.com</authorEmail>
+      <description>Load complex domain data via a simple DSL</description>
+      <file>http://plugins.grails.org/grails-fixtures/tags/RELEASE_0_7/grails-fixtures-0.7.zip</file>
+    </release>
+    <release version='1.2'>
+      <title>Grails Fixtures Plugin</title>
+      <author>Grails Plugin Collective</author>
+      <authorEmail>grails.plugin.collective@gmail.com</authorEmail>
+      <description>Load complex domain data via a simple DSL</description>
+      <file>http://grails.org/plugins/grails-fixtures/tags/RELEASE_1_2/grails-fixtures-1.2.zip</file>
+    </release>
+    <release version='1.0'>
+      <title>Grails Fixtures Plugin</title>
+      <author>Grails Plugin Collective</author>
+      <authorEmail>grails.plugin.collective@gmail.com</authorEmail>
+      <description>Load complex domain data via a simple DSL</description>
+      <file>http://plugins.grails.org/grails-fixtures/tags/RELEASE_1_0/grails-fixtures-1.0.zip</file>
+    </release>
+    <release version='0.2'>
+      <title>Grails Fixtures Plugin</title>
+      <author>Grails Plugin Collective</author>
+      <authorEmail>grails.plugin.collective@gmail.com</authorEmail>
+      <description>Load complex domain data via a simple DSL</description>
+      <file>http://plugins.grails.org/grails-fixtures/tags/RELEASE_0_2/grails-fixtures-0.2.zip</file>
+    </release>
+    <release version='1.0-M2'>
+      <title>Grails Fixtures Plugin</title>
+      <author>Grails Plugin Collective</author>
+      <authorEmail>grails.plugin.collective@gmail.com</authorEmail>
+      <description>Load complex domain data via a simple DSL</description>
+      <file>http://plugins.grails.org/grails-fixtures/tags/RELEASE_1_0-M2/grails-fixtures-1.0-M2.zip</file>
+    </release>
+    <release version='1.0.1'>
+      <title>Grails Fixtures Plugin</title>
+      <author>Grails Plugin Collective</author>
+      <authorEmail>grails.plugin.collective@gmail.com</authorEmail>
+      <description>Load complex domain data via a simple DSL</description>
+      <file>http://plugins.grails.org/grails-fixtures/tags/RELEASE_1_0_1/grails-fixtures-1.0.1.zip</file>
+    </release>
+    <release version='1.0-M3'>
+      <title>Grails Fixtures Plugin</title>
+      <author>Grails Plugin Collective</author>
+      <authorEmail>grails.plugin.collective@gmail.com</authorEmail>
+      <description>Load complex domain data via a simple DSL</description>
+      <file>http://plugins.grails.org/grails-fixtures/tags/RELEASE_1_0-M3/grails-fixtures-1.0-M3.zip</file>
+    </release>
+    <release version='0.9-RC4'>
+      <title>Grails Fixtures Plugin</title>
+      <author>Grails Plugin Collective</author>
+      <authorEmail>grails.plugin.collective@gmail.com</authorEmail>
+      <description>Load complex domain data via a simple DSL</description>
+      <file>http://plugins.grails.org/grails-fixtures/tags/RELEASE_0_9-RC4/grails-fixtures-0.9-RC4.zip</file>
+    </release>
+    <release version='1.0.2'>
+      <title>Grails Fixtures Plugin</title>
+      <author>Grails Plugin Collective</author>
+      <authorEmail>grails.plugin.collective@gmail.com</authorEmail>
+      <description>Load complex domain data via a simple DSL</description>
+      <file>http://plugins.grails.org/grails-fixtures/tags/RELEASE_1_0_2/grails-fixtures-1.0.2.zip</file>
+    </release>
+    <release version='0.9-RC2'>
+      <title>Grails Fixtures Plugin</title>
+      <author>Grails Plugin Collective</author>
+      <authorEmail>grails.plugin.collective@gmail.com</authorEmail>
+      <description>Load complex domain data via a simple DSL</description>
+      <file>http://plugins.grails.org/grails-fixtures/tags/RELEASE_0_9-RC2/grails-fixtures-0.9-RC2.zip</file>
+    </release>
+    <release version='1.0-M1'>
+      <title>Grails Fixtures Plugin</title>
+      <author>Grails Plugin Collective</author>
+      <authorEmail>grails.plugin.collective@gmail.com</authorEmail>
+      <description>Load complex domain data via a simple DSL</description>
+      <file>http://plugins.grails.org/grails-fixtures/tags/RELEASE_1_0-M1/grails-fixtures-1.0-M1.zip</file>
+    </release>
+    <release version='0.9-RC3'>
+      <title>Grails Fixtures Plugin</title>
+      <author>Grails Plugin Collective</author>
+      <authorEmail>grails.plugin.collective@gmail.com</authorEmail>
+      <description>Load complex domain data via a simple DSL</description>
+      <file>http://plugins.grails.org/grails-fixtures/tags/RELEASE_0_9-RC3/grails-fixtures-0.9-RC3.zip</file>
+    </release>
+    <release version='1.0.2-SNAPSHOT'>
+      <title>Grails Fixtures Plugin</title>
+      <author>Grails Plugin Collective</author>
+      <authorEmail>grails.plugin.collective@gmail.com</authorEmail>
+      <description>Load complex domain data via a simple DSL</description>
+      <file>http://plugins.grails.org/grails-fixtures/tags/RELEASE_1_0_2-SNAPSHOT/grails-fixtures-1.0.2-SNAPSHOT.zip</file>
+    </release>
+    <release version='1.0-M4-SNAPSHOT'>
+      <title>Grails Fixtures Plugin</title>
+      <author>Grails Plugin Collective</author>
+      <authorEmail>grails.plugin.collective@gmail.com</authorEmail>
+      <description>Load complex domain data via a simple DSL</description>
+      <file>http://plugins.grails.org/grails-fixtures/tags/RELEASE_1_0-M4-SNAPSHOT/grails-fixtures-1.0-M4-SNAPSHOT.zip</file>
+    </release>
+    <release version='0.5'>
+      <title>Grails Fixtures Plugin</title>
+      <author>Grails Plugin Collective</author>
+      <authorEmail>grails.plugin.collective@gmail.com</authorEmail>
+      <description>Load complex domain data via a simple DSL</description>
+      <file>http://plugins.grails.org/grails-fixtures/tags/RELEASE_0_5/grails-fixtures-0.5.zip</file>
+    </release>
+    <release version='1.0.3'>
+      <title>Grails Fixtures Plugin</title>
+      <author>Grails Plugin Collective</author>
+      <authorEmail>grails.plugin.collective@gmail.com</authorEmail>
+      <description>Load complex domain data via a simple DSL</description>
+      <file>http://plugins.grails.org/grails-fixtures/tags/RELEASE_1_0_3/grails-fixtures-1.0.3.zip</file>
+    </release>
+    <release version='0.7-RC3'>
+      <title>Grails Fixtures Plugin</title>
+      <author>Grails Plugin Collective</author>
+      <authorEmail>grails.plugin.collective@gmail.com</authorEmail>
+      <description>Load complex domain data via a simple DSL</description>
+      <file>http://plugins.grails.org/grails-fixtures/tags/RELEASE_0_7-RC3/grails-fixtures-0.7-RC3.zip</file>
+    </release>
+    <release version='1.0.4'>
+      <title>Grails Fixtures Plugin</title>
+      <author>Grails Plugin Collective</author>
+      <authorEmail>grails.plugin.collective@gmail.com</authorEmail>
+      <description>Load complex domain data via a simple DSL</description>
+      <file>http://plugins.grails.org/grails-fixtures/tags/RELEASE_1_0_4/grails-fixtures-1.0.4.zip</file>
+    </release>
+    <release version='0.7-RC2'>
+      <title>Grails Fixtures Plugin</title>
+      <author>Grails Plugin Collective</author>
+      <authorEmail>grails.plugin.collective@gmail.com</authorEmail>
+      <description>Load complex domain data via a simple DSL</description>
+      <file>http://plugins.grails.org/grails-fixtures/tags/RELEASE_0_7-RC2/grails-fixtures-0.7-RC2.zip</file>
+    </release>
+    <release version='0.1'>
+      <title>Grails Fixtures Plugin</title>
+      <author>Grails Plugin Collective</author>
+      <authorEmail>grails.plugin.collective@gmail.com</authorEmail>
+      <description>Load complex domain data via a simple DSL</description>
+      <file>http://plugins.grails.org/grails-fixtures/tags/RELEASE_0_1/grails-fixtures-0.1.zip</file>
+    </release>
+    <release version='0.7.1'>
+      <title>Grails Fixtures Plugin</title>
+      <author>Grails Plugin Collective</author>
+      <authorEmail>grails.plugin.collective@gmail.com</authorEmail>
+      <description>Load complex domain data via a simple DSL</description>
+      <file>http://plugins.grails.org/grails-fixtures/tags/RELEASE_0_7_1/grails-fixtures-0.7.1.zip</file>
+    </release>
+    <release version='0.6'>
+      <title>Grails Fixtures Plugin</title>
+      <author>Grails Plugin Collective</author>
+      <authorEmail>grails.plugin.collective@gmail.com</authorEmail>
+      <description>Load complex domain data via a simple DSL</description>
+      <file>http://plugins.grails.org/grails-fixtures/tags/RELEASE_0_6/grails-fixtures-0.6.zip</file>
+    </release>
+    <release version='1.0.5'>
+      <title>Grails Fixtures Plugin</title>
+      <author>Grails Plugin Collective</author>
+      <authorEmail>grails.plugin.collective@gmail.com</authorEmail>
+      <description>Load complex domain data via a simple DSL</description>
+      <file>http://plugins.grails.org/grails-fixtures/tags/RELEASE_1_0_5/grails-fixtures-1.0.5.zip</file>
+    </release>
+  </plugin>
+  <plugin name='javascript-validator' latest-release='0.9'>
+    <release version='0.3'>
+      <title>JavascriptValidator Plugin</title>
+      <author>Peter Delahunty</author>
+      <authorEmail>peter.delahunty@gmail.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-javascript-validator/tags/RELEASE_0_3/grails-javascript-validator-0.3.zip</file>
+    </release>
+    <release version='0.9'>
+      <title>JavascriptValidator Plugin</title>
+      <author>Peter Delahunty</author>
+      <authorEmail>peter.delahunty@gmail.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-javascript-validator/tags/RELEASE_0_9/grails-javascript-validator-0.9.zip</file>
+    </release>
+    <release version='0.1'>
+      <title>JavascriptValidator Plugin</title>
+      <author>Peter Delahunty</author>
+      <authorEmail>peter.delahunty@gmail.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-javascript-validator/tags/RELEASE_0_1/grails-javascript-validator-0.1.zip</file>
+    </release>
+    <release version='0.8'>
+      <title>JavascriptValidator Plugin</title>
+      <author>Peter Delahunty</author>
+      <authorEmail>peter.delahunty@gmail.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-javascript-validator/tags/RELEASE_0_8/grails-javascript-validator-0.8.zip</file>
+    </release>
+    <release version='0.5'>
+      <title>JavascriptValidator Plugin</title>
+      <author>Peter Delahunty</author>
+      <authorEmail>peter.delahunty@gmail.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-javascript-validator/tags/RELEASE_0_5/grails-javascript-validator-0.5.zip</file>
+    </release>
+    <release version='0.6'>
+      <title>JavascriptValidator Plugin</title>
+      <author>Peter Delahunty</author>
+      <authorEmail>peter.delahunty@gmail.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-javascript-validator/tags/RELEASE_0_6/grails-javascript-validator-0.6.zip</file>
+    </release>
+    <release version='0.2'>
+      <title>JavascriptValidator Plugin</title>
+      <author>Peter Delahunty</author>
+      <authorEmail>peter.delahunty@gmail.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-javascript-validator/tags/RELEASE_0_2/grails-javascript-validator-0.2.zip</file>
+    </release>
+    <release version='0.4'>
+      <title>JavascriptValidator Plugin</title>
+      <author>Peter Delahunty</author>
+      <authorEmail>peter.delahunty@gmail.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-javascript-validator/tags/RELEASE_0_4/grails-javascript-validator-0.4.zip</file>
+    </release>
+    <release version='0.7'>
+      <title>JavascriptValidator Plugin</title>
+      <author>Peter Delahunty</author>
+      <authorEmail>peter.delahunty@gmail.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-javascript-validator/tags/RELEASE_0_7/grails-javascript-validator-0.7.zip</file>
+    </release>
+  </plugin>
+  <plugin name='remote-constraints' latest-release='0.4.3'>
+    <release version='0.3.1'>
+      <title>Remote Constraints Plugin</title>
+      <author>Tobia Loschiavo</author>
+      <authorEmail>tobia.loschiavo@gmail.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-remote-constraints/tags/RELEASE_0_3_1/grails-remote-constraints-0.3.1.zip</file>
+    </release>
+    <release version='0.4.3'>
+      <title>Remote Constraints Plugin</title>
+      <author>Tobia Loschiavo</author>
+      <authorEmail>tobia.loschiavo@gmail.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-remote-constraints/tags/RELEASE_0_4_3/grails-remote-constraints-0.4.3.zip</file>
+    </release>
+    <release version='0.4'>
+      <title>Remote Constraints Plugin</title>
+      <author>Tobia Loschiavo</author>
+      <authorEmail>tobia.loschiavo@gmail.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-remote-constraints/tags/RELEASE_0_4/grails-remote-constraints-0.4.zip</file>
+    </release>
+    <release version='0.3'>
+      <title>Remote Constraints Plugin</title>
+      <author>Tobia Loschiavo</author>
+      <authorEmail>tobia.loschiavo@gmail.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-remote-constraints/tags/RELEASE_0_3/grails-remote-constraints-0.3.zip</file>
+    </release>
+    <release version='0.2'>
+      <title>Remote Constraints Plugin</title>
+      <author>Tobia Loschiavo</author>
+      <authorEmail>tobia.loschiavo@gmail.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-remote-constraints/tags/RELEASE_0_2/grails-remote-constraints-0.2.zip</file>
+    </release>
+  </plugin>
+  <plugin name='grails-ui' latest-release='1.2.3'>
+    <release version='1.0.1-SNAPSHOT'>
+      <title>Grails UI</title>
+      <author>Matthew Taylor</author>
+      <authorEmail>rhyolight@gmail.com</authorEmail>
+      <description>Provides a standard UI tag library for ajaxy widgets using YUI.</description>
+      <file>http://plugins.grails.org/grails-grails-ui/tags/RELEASE_1_0_1-SNAPSHOT/grails-grails-ui-1.0.1-SNAPSHOT.zip</file>
+    </release>
+    <release version='1.0.1'>
+      <title>Grails UI</title>
+      <author>Matthew Taylor</author>
+      <authorEmail>rhyolight@gmail.com</authorEmail>
+      <description>Provides a standard UI tag library for ajaxy widgets using YUI.</description>
+      <file>http://plugins.grails.org/grails-grails-ui/tags/RELEASE_1_0_1/grails-grails-ui-1.0.1.zip</file>
+    </release>
+    <release version='1.2.3'>
+      <title>Grails UI</title>
+      <author>Matthew Taylor</author>
+      <authorEmail>rhyolight@gmail.com</authorEmail>
+      <description>Provides a standard UI tag library for ajaxy widgets using YUI.</description>
+      <file>http://plugins.grails.org/grails-grails-ui/tags/RELEASE_1_2_3/grails-grails-ui-1.2.3.zip</file>
+    </release>
+    <release version='0.22'>
+      <title>Grails UI</title>
+      <author>Matthew Taylor</author>
+      <authorEmail>rhyolight@gmail.com</authorEmail>
+      <description>Provides a standard UI tag library for ajaxy widgets using YUI.</description>
+      <file>http://plugins.grails.org/grails-grails-ui/tags/RELEASE_0_22/grails-grails-ui-0.22.zip</file>
+    </release>
+    <release version='1.0.2'>
+      <title>Grails UI</title>
+      <author>Matthew Taylor</author>
+      <authorEmail>rhyolight@gmail.com</authorEmail>
+      <description>Provides a standard UI tag library for ajaxy widgets using YUI.</description>
+      <file>http://plugins.grails.org/grails-grails-ui/tags/RELEASE_1_0_2/grails-grails-ui-1.0.2.zip</file>
+    </release>
+    <release version='0.37'>
+      <title>Grails UI</title>
+      <author>Matthew Taylor</author>
+      <authorEmail>rhyolight@gmail.com</authorEmail>
+      <description>Provides a standard UI tag library for ajaxy widgets using YUI.</description>
+      <file>http://plugins.grails.org/grails-grails-ui/tags/RELEASE_0_37/grails-grails-ui-0.37.zip</file>
+    </release>
+    <release version='1.0.3'>
+      <title>Grails UI</title>
+      <author>Matthew Taylor</author>
+      <authorEmail>rhyolight@gmail.com</authorEmail>
+      <description>Provides a standard UI tag library for ajaxy widgets using YUI.</description>
+      <file>http://plugins.grails.org/grails-grails-ui/tags/RELEASE_1_0_3/grails-grails-ui-1.0.3.zip</file>
+    </release>
+    <release version='0.38'>
+      <title>Grails UI</title>
+      <author>Matthew Taylor</author>
+      <authorEmail>rhyolight@gmail.com</authorEmail>
+      <description>Provides a standard UI tag library for ajaxy widgets using YUI.</description>
+      <file>http://plugins.grails.org/grails-grails-ui/tags/RELEASE_0_38/grails-grails-ui-0.38.zip</file>
+    </release>
+    <release version='1.2.1'>
+      <title>Grails UI</title>
+      <author>Matthew Taylor</author>
+      <authorEmail>rhyolight@gmail.com</authorEmail>
+      <description>Provides a standard UI tag library for ajaxy widgets using YUI.</description>
+      <file>http://plugins.grails.org/grails-grails-ui/tags/RELEASE_1_2_1/grails-grails-ui-1.2.1.zip</file>
+    </release>
+    <release version='0.28'>
+      <title>Grails UI</title>
+      <author>Matthew Taylor</author>
+      <authorEmail>rhyolight@gmail.com</authorEmail>
+      <description>Provides a standard UI tag library for ajaxy widgets using YUI.</description>
+      <file>http://plugins.grails.org/grails-grails-ui/tags/RELEASE_0_28/grails-grails-ui-0.28.zip</file>
+    </release>
+    <release version='0.26'>
+      <title>Grails UI</title>
+      <author>Matthew Taylor</author>
+      <authorEmail>rhyolight@gmail.com</authorEmail>
+      <description>Provides a standard UI tag library for ajaxy widgets using YUI.</description>
+      <file>http://plugins.grails.org/grails-grails-ui/tags/RELEASE_0_26/grails-grails-ui-0.26.zip</file>
+    </release>
+    <release version='0.36'>
+      <title>Grails UI</title>
+      <author>Matthew Taylor</author>
+      <authorEmail>rhyolight@gmail.com</authorEmail>
+      <description>Provides a standard UI tag library for ajaxy widgets using YUI.</description>
+      <file>http://plugins.grails.org/grails-grails-ui/tags/RELEASE_0_36/grails-grails-ui-0.36.zip</file>
+    </release>
+    <release version='1.2.2'>
+      <title>Grails UI</title>
+      <author>Matthew Taylor</author>
+      <authorEmail>rhyolight@gmail.com</authorEmail>
+      <description>Provides a standard UI tag library for ajaxy widgets using YUI.</description>
+      <file>http://plugins.grails.org/grails-grails-ui/tags/RELEASE_1_2_2/grails-grails-ui-1.2.2.zip</file>
+    </release>
+    <release version='0.23'>
+      <title>Grails UI</title>
+      <author>Matthew Taylor</author>
+      <authorEmail>rhyolight@gmail.com</authorEmail>
+      <description>Provides a standard UI tag library for ajaxy widgets using YUI.</description>
+      <file>http://plugins.grails.org/grails-grails-ui/tags/RELEASE_0_23/grails-grails-ui-0.23.zip</file>
+    </release>
+    <release version='1.2'>
+      <title>Grails UI</title>
+      <author>Matthew Taylor</author>
+      <authorEmail>rhyolight@gmail.com</authorEmail>
+      <description>Provides a standard UI tag library for ajaxy widgets using YUI.</description>
+      <file>http://plugins.grails.org/grails-grails-ui/tags/RELEASE_1_2/grails-grails-ui-1.2.zip</file>
+    </release>
+    <release version='0.1-ALPHA'>
+      <title>Grails UI</title>
+      <author>Matthew Taylor</author>
+      <authorEmail>rhyolight@gmail.com</authorEmail>
+      <description>Provides a standard UI tag library for ajaxy widgets using YUI.</description>
+      <file>http://plugins.grails.org/grails-grails-ui/tags/RELEASE_0_1-ALPHA/grails-grails-ui-0.1-ALPHA.zip</file>
+    </release>
+    <release version='0.24'>
+      <title>Grails UI</title>
+      <author>Matthew Taylor</author>
+      <authorEmail>rhyolight@gmail.com</authorEmail>
+      <description>Provides a standard UI tag library for ajaxy widgets using YUI.</description>
+      <file>http://plugins.grails.org/grails-grails-ui/tags/RELEASE_0_24/grails-grails-ui-0.24.zip</file>
+    </release>
+    <release version='0.21'>
+      <title>Grails UI</title>
+      <author>Matthew Taylor</author>
+      <authorEmail>rhyolight@gmail.com</authorEmail>
+      <description>Provides a standard UI tag library for ajaxy widgets using YUI.</description>
+      <file>http://plugins.grails.org/grails-grails-ui/tags/RELEASE_0_21/grails-grails-ui-0.21.zip</file>
+    </release>
+    <release version='1.1.1'>
+      <title>Grails UI</title>
+      <author>Matthew Taylor</author>
+      <authorEmail>rhyolight@gmail.com</authorEmail>
+      <description>Provides a standard UI tag library for ajaxy widgets using YUI.</description>
+      <file>http://plugins.grails.org/grails-grails-ui/tags/RELEASE_1_1_1/grails-grails-ui-1.1.1.zip</file>
+    </release>
+    <release version='1.2-SNAPSHOT'>
+      <title>Grails UI</title>
+      <author>Matthew Taylor</author>
+      <authorEmail>rhyolight@gmail.com</authorEmail>
+      <description>Provides a standard UI tag library for ajaxy widgets using YUI.</description>
+      <file>http://plugins.grails.org/grails-grails-ui/tags/RELEASE_1_2-SNAPSHOT/grails-grails-ui-1.2-SNAPSHOT.zip</file>
+    </release>
+    <release version='1.0'>
+      <title>Grails UI</title>
+      <author>Matthew Taylor</author>
+      <authorEmail>rhyolight@gmail.com</authorEmail>
+      <description>Provides a standard UI tag library for ajaxy widgets using YUI.</description>
+      <file>http://plugins.grails.org/grails-grails-ui/tags/RELEASE_1_0/grails-grails-ui-1.0.zip</file>
+    </release>
+    <release version='0.41'>
+      <title>Grails UI</title>
+      <author>Matthew Taylor</author>
+      <authorEmail>rhyolight@gmail.com</authorEmail>
+      <description>Provides a standard UI tag library for ajaxy widgets using YUI.</description>
+      <file>http://plugins.grails.org/grails-grails-ui/tags/RELEASE_0_41/grails-grails-ui-0.41.zip</file>
+    </release>
+    <release version='1.0.4'>
+      <title>Grails UI</title>
+      <author>Matthew Taylor</author>
+      <authorEmail>rhyolight@gmail.com</authorEmail>
+      <description>Provides a standard UI tag library for ajaxy widgets using YUI.</description>
+      <file>http://plugins.grails.org/grails-grails-ui/tags/RELEASE_1_0_4/grails-grails-ui-1.0.4.zip</file>
+    </release>
+    <release version='1.0.2-SNAPSHOT'>
+      <title>Grails UI</title>
+      <author>Matthew Taylor</author>
+      <authorEmail>rhyolight@gmail.com</authorEmail>
+      <description>Provides a standard UI tag library for ajaxy widgets using YUI.</description>
+      <file>http://plugins.grails.org/grails-grails-ui/tags/RELEASE_1_0_2-SNAPSHOT/grails-grails-ui-1.0.2-SNAPSHOT.zip</file>
+    </release>
+    <release version='0.40'>
+      <title>Grails UI</title>
+      <author>Matthew Taylor</author>
+      <authorEmail>rhyolight@gmail.com</authorEmail>
+      <description>Provides a standard UI tag library for ajaxy widgets using YUI.</description>
+      <file>http://plugins.grails.org/grails-grails-ui/tags/RELEASE_0_40/grails-grails-ui-0.40.zip</file>
+    </release>
+    <release version='0.30'>
+      <title>Grails UI</title>
+      <author>Matthew Taylor</author>
+      <authorEmail>rhyolight@gmail.com</authorEmail>
+      <description>Provides a standard UI tag library for ajaxy widgets using YUI.</description>
+      <file>http://plugins.grails.org/grails-grails-ui/tags/RELEASE_0_30/grails-grails-ui-0.30.zip</file>
+    </release>
+    <release version='0.33'>
+      <title>Grails UI</title>
+      <author>Matthew Taylor</author>
+      <authorEmail>rhyolight@gmail.com</authorEmail>
+      <description>Provides a standard UI tag library for ajaxy widgets using YUI.</description>
+      <file>http://plugins.grails.org/grails-grails-ui/tags/RELEASE_0_33/grails-grails-ui-0.33.zip</file>
+    </release>
+    <release version='1.1-SNAPSHOT'>
+      <title>Grails UI</title>
+      <author>Matthew Taylor</author>
+      <authorEmail>rhyolight@gmail.com</authorEmail>
+      <description>Provides a standard UI tag library for ajaxy widgets using YUI.</description>
+      <file>http://plugins.grails.org/grails-grails-ui/tags/RELEASE_1_1-SNAPSHOT/grails-grails-ui-1.1-SNAPSHOT.zip</file>
+    </release>
+    <release version='0.25'>
+      <title>Grails UI</title>
+      <author>Matthew Taylor</author>
+      <authorEmail>rhyolight@gmail.com</authorEmail>
+      <description>Provides a standard UI tag library for ajaxy widgets using YUI.</description>
+      <file>http://plugins.grails.org/grails-grails-ui/tags/RELEASE_0_25/grails-grails-ui-0.25.zip</file>
+    </release>
+    <release version='0.2'>
+      <title>Grails UI</title>
+      <author>Matthew Taylor</author>
+      <authorEmail>rhyolight@gmail.com</authorEmail>
+      <description>Provides a standard UI tag library for ajaxy widgets using YUI.</description>
+      <file>http://plugins.grails.org/grails-grails-ui/tags/RELEASE_0_2/grails-grails-ui-0.2.zip</file>
+    </release>
+    <release version='0.32'>
+      <title>Grails UI</title>
+      <author>Matthew Taylor</author>
+      <authorEmail>rhyolight@gmail.com</authorEmail>
+      <description>Provides a standard UI tag library for ajaxy widgets using YUI.</description>
+      <file>http://plugins.grails.org/grails-grails-ui/tags/RELEASE_0_32/grails-grails-ui-0.32.zip</file>
+    </release>
+    <release version='1.1'>
+      <title>Grails UI</title>
+      <author>Matthew Taylor</author>
+      <authorEmail>rhyolight@gmail.com</authorEmail>
+      <description>Provides a standard UI tag library for ajaxy widgets using YUI.</description>
+      <file>http://plugins.grails.org/grails-grails-ui/tags/RELEASE_1_1/grails-grails-ui-1.1.zip</file>
+    </release>
+    <release version='0.1'>
+      <title>Grails UI</title>
+      <author>Matthew Taylor</author>
+      <authorEmail>rhyolight@gmail.com</authorEmail>
+      <description>Provides a standard UI tag library for ajaxy widgets using YUI.</description>
+      <file>http://plugins.grails.org/grails-grails-ui/tags/RELEASE_0_1/grails-grails-ui-0.1.zip</file>
+    </release>
+    <release version='0.35'>
+      <title>Grails UI</title>
+      <author>Matthew Taylor</author>
+      <authorEmail>rhyolight@gmail.com</authorEmail>
+      <description>Provides a standard UI tag library for ajaxy widgets using YUI.</description>
+      <file>http://plugins.grails.org/grails-grails-ui/tags/RELEASE_0_35/grails-grails-ui-0.35.zip</file>
+    </release>
+    <release version='0.39'>
+      <title>Grails UI</title>
+      <author>Matthew Taylor</author>
+      <authorEmail>rhyolight@gmail.com</authorEmail>
+      <description>Provides a standard UI tag library for ajaxy widgets using YUI.</description>
+      <file>http://plugins.grails.org/grails-grails-ui/tags/RELEASE_0_39/grails-grails-ui-0.39.zip</file>
+    </release>
+    <release version='0.29'>
+      <title>Grails UI</title>
+      <author>Matthew Taylor</author>
+      <authorEmail>rhyolight@gmail.com</authorEmail>
+      <description>Provides a standard UI tag library for ajaxy widgets using YUI.</description>
+      <file>http://plugins.grails.org/grails-grails-ui/tags/RELEASE_0_29/grails-grails-ui-0.29.zip</file>
+    </release>
+    <release version='0.27'>
+      <title>Grails UI</title>
+      <author>Matthew Taylor</author>
+      <authorEmail>rhyolight@gmail.com</authorEmail>
+      <description>Provides a standard UI tag library for ajaxy widgets using YUI.</description>
+      <file>http://plugins.grails.org/grails-grails-ui/tags/RELEASE_0_27/grails-grails-ui-0.27.zip</file>
+    </release>
+    <release version='0.31'>
+      <title>Grails UI</title>
+      <author>Matthew Taylor</author>
+      <authorEmail>rhyolight@gmail.com</authorEmail>
+      <description>Provides a standard UI tag library for ajaxy widgets using YUI.</description>
+      <file>http://plugins.grails.org/grails-grails-ui/tags/RELEASE_0_31/grails-grails-ui-0.31.zip</file>
+    </release>
+  </plugin>
+  <plugin name='dwr' latest-release='0.1'>
+    <release version='0.1'>
+      <title>DWR Plugin</title>
+      <author>Alex Shneyderman</author>
+      <authorEmail>a.shneyderman@gmail.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-dwr/tags/RELEASE_0_1/grails-dwr-0.1.zip</file>
+    </release>
+  </plugin>
+  <plugin name='dynamic-javascript' latest-release='' />
+  <plugin name='echo2' latest-release='0.1'>
+    <release version='0.1'>
+      <title>Echo2 Plugin</title>
+      <author>Reginaldo Delfino</author>
+      <authorEmail>rdelfino@gmail.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-echo2/tags/RELEASE_0_1/grails-echo2-0.1.zip</file>
+    </release>
+  </plugin>
+  <plugin name='gwt' latest-release='0.8'>
+    <release version='0.6'>
+      <title>The Google Web Toolkit for Grails.</title>
+      <author></author>
+      <authorEmail></authorEmail>
+      <description>Incorporates GWT into Grails. In particular, GWT host pages can be
+GSPs and standard Grails services can be used to handle client RPC
+requests.
+</description>
+      <file>http://plugins.grails.org/grails-gwt/tags/RELEASE_0_6/grails-gwt-0.6.zip</file>
+    </release>
+    <release version='0.3.1'>
+      <title>The Google Web Toolkit for Grails.</title>
+      <author></author>
+      <authorEmail></authorEmail>
+      <description>Incorporates GWT into Grails. In particular, GWT host pages can be
+GSPs and standard Grails services can be used to handle client RPC
+requests.
+</description>
+      <file>http://plugins.grails.org/grails-gwt/tags/RELEASE_0_3_1/grails-gwt-0.3.1.zip</file>
+    </release>
+    <release version='0.4.1'>
+      <title>The Google Web Toolkit for Grails.</title>
+      <author></author>
+      <authorEmail></authorEmail>
+      <description>Incorporates GWT into Grails. In particular, GWT host pages can be
+GSPs and standard Grails services can be used to handle client RPC
+requests.
+</description>
+      <file>http://plugins.grails.org/grails-gwt/tags/RELEASE_0_4_1/grails-gwt-0.4.1.zip</file>
+    </release>
+    <release version='0.6-SNAPSHOT'>
+      <title>The Google Web Toolkit for Grails.</title>
+      <author></author>
+      <authorEmail></authorEmail>
+      <description>Incorporates GWT into Grails. In particular, GWT host pages can be
+GSPs and standard Grails services can be used to handle client RPC
+requests.
+</description>
+      <file>http://plugins.grails.org/grails-gwt/tags/RELEASE_0_6-SNAPSHOT/grails-gwt-0.6-SNAPSHOT.zip</file>
+    </release>
+    <release version='0.3'>
+      <title>The Google Web Toolkit for Grails.</title>
+      <author></author>
+      <authorEmail></authorEmail>
+      <description>Incorporates GWT into Grails. In particular, GWT host pages can be
+GSPs and standard Grails services can be used to handle client RPC
+requests.
+</description>
+      <file>http://plugins.grails.org/grails-gwt/tags/RELEASE_0_3/grails-gwt-0.3.zip</file>
+    </release>
+    <release version='0.6.1'>
+      <title>The Google Web Toolkit for Grails.</title>
+      <author></author>
+      <authorEmail></authorEmail>
+      <description>Incorporates GWT into Grails. In particular, GWT host pages can be
+GSPs and standard Grails services can be used to handle client RPC
+requests.
+</description>
+      <file>http://plugins.grails.org/grails-gwt/tags/RELEASE_0_6_1/grails-gwt-0.6.1.zip</file>
+    </release>
+    <release version='0.5.2'>
+      <title>The Google Web Toolkit for Grails.</title>
+      <author></author>
+      <authorEmail></authorEmail>
+      <description>Incorporates GWT into Grails. In particular, GWT host pages can be
+GSPs and standard Grails services can be used to handle client RPC
+requests.
+</description>
+      <file>http://plugins.grails.org/grails-gwt/tags/RELEASE_0_5_2/grails-gwt-0.5.2.zip</file>
+    </release>
+    <release version='0.2.2'>
+      <title>The Google Web Toolkit for Grails.</title>
+      <author></author>
+      <authorEmail></authorEmail>
+      <description>Incorporates GWT into Grails. In particular, GWT host pages can be
+GSPs and standard Grails services can be used to handle client RPC
+requests.
+</description>
+      <file>http://plugins.grails.org/grails-gwt/tags/RELEASE_0_2_2/grails-gwt-0.2.2.zip</file>
+    </release>
+    <release version='0.2.1'>
+      <title>The Google Web Toolkit for Grails.</title>
+      <author></author>
+      <authorEmail></authorEmail>
+      <description>Incorporates GWT into Grails. In particular, GWT host pages can be
+GSPs and standard Grails services can be used to handle client RPC
+requests.
+</description>
+      <file>http://plugins.grails.org/grails-gwt/tags/RELEASE_0_2_1/grails-gwt-0.2.1.zip</file>
+    </release>
+    <release version='0.2.4'>
+      <title>The Google Web Toolkit for Grails.</title>
+      <author></author>
+      <authorEmail></authorEmail>
+      <description>Incorporates GWT into Grails. In particular, GWT host pages can be
+GSPs and standard Grails services can be used to handle client RPC
+requests.
+</description>
+      <file>http://plugins.grails.org/grails-gwt/tags/RELEASE_0_2_4/grails-gwt-0.2.4.zip</file>
+    </release>
+    <release version='0.2.3'>
+      <title>The Google Web Toolkit for Grails.</title>
+      <author></author>
+      <authorEmail></authorEmail>
+      <description>Incorporates GWT into Grails. In particular, GWT host pages can be
+GSPs and standard Grails services can be used to handle client RPC
+requests.
+</description>
+      <file>http://plugins.grails.org/grails-gwt/tags/RELEASE_0_2_3/grails-gwt-0.2.3.zip</file>
+    </release>
+    <release version='0.8'>
+      <title>The Google Web Toolkit for Grails.</title>
+      <author></author>
+      <authorEmail></authorEmail>
+      <description>Incorporates GWT into Grails. In particular, GWT host pages can be
+GSPs and standard Grails services can be used to handle client RPC
+requests.
+</description>
+      <file>http://grails.org/plugins/grails-gwt/tags/RELEASE_0_8/grails-gwt-0.8.zip</file>
+    </release>
+    <release version='0.7'>
+      <title>The Google Web Toolkit for Grails.</title>
+      <author></author>
+      <authorEmail></authorEmail>
+      <description>Incorporates GWT into Grails. In particular, GWT host pages can be
+GSPs and standard Grails services can be used to handle client RPC
+requests.
+</description>
+      <file>http://grails.org/plugins/grails-gwt/tags/RELEASE_0_7/grails-gwt-0.7.zip</file>
+    </release>
+    <release version='0.4-SNAPSHOT'>
+      <title>The Google Web Toolkit for Grails.</title>
+      <author></author>
+      <authorEmail></authorEmail>
+      <description>Incorporates GWT into Grails. In particular, GWT host pages can be
+GSPs and standard Grails services can be used to handle client RPC
+requests.
+</description>
+      <file>http://plugins.grails.org/grails-gwt/tags/RELEASE_0_4-SNAPSHOT/grails-gwt-0.4-SNAPSHOT.zip</file>
+    </release>
+    <release version='0.2'>
+      <title>The Google Web Toolkit for Grails.</title>
+      <author></author>
+      <authorEmail></authorEmail>
+      <description>Incorporates GWT into Grails. In particular, GWT host pages can be
+GSPs and standard Grails services can be used to handle client RPC
+requests.
+</description>
+      <file>http://plugins.grails.org/grails-gwt/tags/RELEASE_0_2/grails-gwt-0.2.zip</file>
+    </release>
+    <release version='0.1.1'>
+      <title>The Google Web Toolkit for Grails.</title>
+      <author></author>
+      <authorEmail></authorEmail>
+      <description>Incorporates GWT into Grails. In particular, GWT host pages can be
+GSPs and standard Grails services can be used to handle client RPC
+requests.
+</description>
+      <file>http://plugins.grails.org/grails-gwt/tags/RELEASE_0_1_1/grails-gwt-0.1.1.zip</file>
+    </release>
+    <release version='0.4'>
+      <title>The Google Web Toolkit for Grails.</title>
+      <author></author>
+      <authorEmail></authorEmail>
+      <description>Incorporates GWT into Grails. In particular, GWT host pages can be
+GSPs and standard Grails services can be used to handle client RPC
+requests.
+</description>
+      <file>http://plugins.grails.org/grails-gwt/tags/RELEASE_0_4/grails-gwt-0.4.zip</file>
+    </release>
+    <release version='0.3.2'>
+      <title>The Google Web Toolkit for Grails.</title>
+      <author></author>
+      <authorEmail></authorEmail>
+      <description>Incorporates GWT into Grails. In particular, GWT host pages can be
+GSPs and standard Grails services can be used to handle client RPC
+requests.
+</description>
+      <file>http://plugins.grails.org/grails-gwt/tags/RELEASE_0_3_2/grails-gwt-0.3.2.zip</file>
+    </release>
+    <release version='0.5-SNAPSHOT'>
+      <title>The Google Web Toolkit for Grails.</title>
+      <author></author>
+      <authorEmail></authorEmail>
+      <description>Incorporates GWT into Grails. In particular, GWT host pages can be
+GSPs and standard Grails services can be used to handle client RPC
+requests.
+</description>
+      <file>http://plugins.grails.org/grails-gwt/tags/RELEASE_0_5-SNAPSHOT/grails-gwt-0.5-SNAPSHOT.zip</file>
+    </release>
+    <release version='0.7.1'>
+      <title>The Google Web Toolkit for Grails.</title>
+      <author></author>
+      <authorEmail></authorEmail>
+      <description>Incorporates GWT into Grails. In particular, GWT host pages can be
+GSPs and standard Grails services can be used to handle client RPC
+requests.
+</description>
+      <file>http://grails.org/plugins/grails-gwt/tags/RELEASE_0_7_1/grails-gwt-0.7.1.zip</file>
+    </release>
+    <release version='0.3-SNAPSHOT'>
+      <title>The Google Web Toolkit for Grails.</title>
+      <author></author>
+      <authorEmail></authorEmail>
+      <description>Incorporates GWT into Grails. In particular, GWT host pages can be
+GSPs and standard Grails services can be used to handle client RPC
+requests.
+</description>
+      <file>http://plugins.grails.org/grails-gwt/tags/RELEASE_0_3-SNAPSHOT/grails-gwt-0.3-SNAPSHOT.zip</file>
+    </release>
+    <release version='0.5'>
+      <title>The Google Web Toolkit for Grails.</title>
+      <author></author>
+      <authorEmail></authorEmail>
+      <description>Incorporates GWT into Grails. In particular, GWT host pages can be
+GSPs and standard Grails services can be used to handle client RPC
+requests.
+</description>
+      <file>http://plugins.grails.org/grails-gwt/tags/RELEASE_0_5/grails-gwt-0.5.zip</file>
+    </release>
+    <release version='0.1'>
+      <title>The Google Web Toolkit for Grails.</title>
+      <author></author>
+      <authorEmail></authorEmail>
+      <description>Incorporates GWT into Grails. In particular, GWT host pages can be
+GSPs and standard Grails services can be used to handle client RPC
+requests.
+</description>
+      <file>http://plugins.grails.org/grails-gwt/tags/RELEASE_0_1/grails-gwt-0.1.zip</file>
+    </release>
+    <release version='0.5.1'>
+      <title>The Google Web Toolkit for Grails.</title>
+      <author></author>
+      <authorEmail></authorEmail>
+      <description>Incorporates GWT into Grails. In particular, GWT host pages can be
+GSPs and standard Grails services can be used to handle client RPC
+requests.
+</description>
+      <file>http://plugins.grails.org/grails-gwt/tags/RELEASE_0_5_1/grails-gwt-0.5.1.zip</file>
+    </release>
+  </plugin>
+  <plugin name='laszlo' latest-release='1.0.1'>
+    <release version='0.6.4'>
+      <title>OpenLaszlo plugin</title>
+      <author>ichan</author>
+      <authorEmail>ichan.san@gmail.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-laszlo/tags/RELEASE_0_6_4/grails-laszlo-0.6.4.zip</file>
+    </release>
+    <release version='0.5'>
+      <title>OpenLaszlo plugin</title>
+      <author>ichan</author>
+      <authorEmail>ichan.san@gmail.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-laszlo/tags/RELEASE_0_5/grails-laszlo-0.5.zip</file>
+    </release>
+    <release version='0.6.3'>
+      <title>OpenLaszlo plugin</title>
+      <author>ichan</author>
+      <authorEmail>ichan.san@gmail.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-laszlo/tags/RELEASE_0_6_3/grails-laszlo-0.6.3.zip</file>
+    </release>
+    <release version='0.5.1'>
+      <title>OpenLaszlo plugin</title>
+      <author>ichan</author>
+      <authorEmail>ichan.san@gmail.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-laszlo/tags/RELEASE_0_5_1/grails-laszlo-0.5.1.zip</file>
+    </release>
+    <release version='0.6.2'>
+      <title>OpenLaszlo plugin</title>
+      <author>ichan</author>
+      <authorEmail>ichan.san@gmail.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-laszlo/tags/RELEASE_0_6_2/grails-laszlo-0.6.2.zip</file>
+    </release>
+    <release version='0.6'>
+      <title>OpenLaszlo plugin</title>
+      <author>ichan</author>
+      <authorEmail>ichan.san@gmail.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-laszlo/tags/RELEASE_0_6/grails-laszlo-0.6.zip</file>
+    </release>
+    <release version='0.5.3'>
+      <title>OpenLaszlo plugin</title>
+      <author>ichan</author>
+      <authorEmail>ichan.san@gmail.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-laszlo/tags/RELEASE_0_5_3/grails-laszlo-0.5.3.zip</file>
+    </release>
+    <release version='1.0.1'>
+      <title>OpenLaszlo plugin</title>
+      <author>ichan</author>
+      <authorEmail>ichan.san@gmail.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-laszlo/tags/RELEASE_1_0_1/grails-laszlo-1.0.1.zip</file>
+    </release>
+    <release version='0.6.5'>
+      <title>OpenLaszlo plugin</title>
+      <author>ichan</author>
+      <authorEmail>ichan.san@gmail.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-laszlo/tags/RELEASE_0_6_5/grails-laszlo-0.6.5.zip</file>
+    </release>
+    <release version='0.4.4'>
+      <title>OpenLaszlo plugin</title>
+      <author>ichan</author>
+      <authorEmail>ichan.san@gmail.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-laszlo/tags/RELEASE_0_4_4/grails-laszlo-0.4.4.zip</file>
+    </release>
+    <release version='0.6.1'>
+      <title>OpenLaszlo plugin</title>
+      <author>ichan</author>
+      <authorEmail>ichan.san@gmail.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-laszlo/tags/RELEASE_0_6_1/grails-laszlo-0.6.1.zip</file>
+    </release>
+    <release version='0.4.3'>
+      <title>OpenLaszlo plugin</title>
+      <author>ichan</author>
+      <authorEmail>ichan.san@gmail.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-laszlo/tags/RELEASE_0_4_3/grails-laszlo-0.4.3.zip</file>
+    </release>
+    <release version='0.5.2'>
+      <title>OpenLaszlo plugin</title>
+      <author>ichan</author>
+      <authorEmail>ichan.san@gmail.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-laszlo/tags/RELEASE_0_5_2/grails-laszlo-0.5.2.zip</file>
+    </release>
+    <release version='1.0'>
+      <title>OpenLaszlo plugin</title>
+      <author>ichan</author>
+      <authorEmail>ichan.san@gmail.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-laszlo/tags/RELEASE_1_0/grails-laszlo-1.0.zip</file>
+    </release>
+  </plugin>
+  <plugin name='richui' latest-release='0.8'>
+    <release version='0.4'>
+      <title>RichUI Plugin</title>
+      <author>Andreas Schmitt</author>
+      <authorEmail>andreas.schmitt.mi@gmail.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-richui/tags/RELEASE_0_4/grails-richui-0.4.zip</file>
+    </release>
+    <release version='0.1'>
+      <title>RichUI Plugin</title>
+      <author>Andreas Schmitt</author>
+      <authorEmail>andreas.schmitt.mi@gmail.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-richui/tags/RELEASE_0_1/grails-richui-0.1.zip</file>
+    </release>
+    <release version='0.8'>
+      <title>RichUI Plugin</title>
+      <author>Andreas Schmitt</author>
+      <authorEmail>andreas.schmitt.mi@gmail.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-richui/tags/RELEASE_0_8/grails-richui-0.8.zip</file>
+    </release>
+    <release version='0.5'>
+      <title>RichUI Plugin</title>
+      <author>Andreas Schmitt</author>
+      <authorEmail>andreas.schmitt.mi@gmail.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-richui/tags/RELEASE_0_5/grails-richui-0.5.zip</file>
+    </release>
+    <release version='0.7'>
+      <title>RichUI Plugin</title>
+      <author>Andreas Schmitt</author>
+      <authorEmail>andreas.schmitt.mi@gmail.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-richui/tags/RELEASE_0_7/grails-richui-0.7.zip</file>
+    </release>
+    <release version='0.3'>
+      <title>RichUI Plugin</title>
+      <author>Andreas Schmitt</author>
+      <authorEmail>andreas.schmitt.mi@gmail.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-richui/tags/RELEASE_0_3/grails-richui-0.3.zip</file>
+    </release>
+    <release version='0.6'>
+      <title>RichUI Plugin</title>
+      <author>Andreas Schmitt</author>
+      <authorEmail>andreas.schmitt.mi@gmail.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-richui/tags/RELEASE_0_6/grails-richui-0.6.zip</file>
+    </release>
+    <release version='0.2'>
+      <title>RichUI Plugin</title>
+      <author>Andreas Schmitt</author>
+      <authorEmail>andreas.schmitt.mi@gmail.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-richui/tags/RELEASE_0_2/grails-richui-0.2.zip</file>
+    </release>
+  </plugin>
+  <plugin name='full_path_to_zk_plugin' latest-release='' />
+  <plugin name='flex' latest-release='0.4'>
+    <release version='0.4'>
+      <title>Flex Plugin</title>
+      <author>Burt Beckwith</author>
+      <authorEmail>burt@burtbeckwith.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-flex/tags/RELEASE_0_4/grails-flex-0.4.zip</file>
+    </release>
+    <release version='0.2'>
+      <title>Flex Plugin</title>
+      <author>Burt Beckwith</author>
+      <authorEmail>burt@burtbeckwith.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-flex/tags/RELEASE_0_2/grails-flex-0.2.zip</file>
+    </release>
+    <release version='0.1'>
+      <title>Flex Plugin</title>
+      <author>Burt Beckwith</author>
+      <authorEmail>burt@burtbeckwith.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-flex/tags/RELEASE_0_1/grails-flex-0.1.zip</file>
+    </release>
+  </plugin>
+  <plugin name='ulc' latest-release='0.3.6'>
+    <release version='0.3.6'>
+      <title>ULC Plugin</title>
+      <author>Dierk Koenig, Andres Almiray, Matthias Huber</author>
+      <authorEmail>dierk.koenig@canoo.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-ulc/tags/RELEASE_0_3_6/grails-ulc-0.3.6.zip</file>
+    </release>
+    <release version='0.3.4'>
+      <title>ULC Plugin</title>
+      <author>Dierk Koenig, Andres Almiray, Matthias Huber</author>
+      <authorEmail>dierk.koenig@canoo.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-ulc/tags/RELEASE_0_3_4/grails-ulc-0.3.4.zip</file>
+    </release>
+    <release version='0.3.3'>
+      <title>ULC Plugin</title>
+      <author>Dierk Koenig, Andres Almiray, Matthias Huber</author>
+      <authorEmail>dierk.koenig@canoo.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-ulc/tags/RELEASE_0_3_3/grails-ulc-0.3.3.zip</file>
+    </release>
+    <release version='0.3.5'>
+      <title>ULC Plugin</title>
+      <author>Dierk Koenig, Andres Almiray, Matthias Huber</author>
+      <authorEmail>dierk.koenig@canoo.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-ulc/tags/RELEASE_0_3_5/grails-ulc-0.3.5.zip</file>
+    </release>
+    <release version='0.3'>
+      <title>ULC Plugin</title>
+      <author>Dierk Koenig, Andres Almiray, Matthias Huber</author>
+      <authorEmail>dierk.koenig@canoo.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-ulc/tags/RELEASE_0_3/grails-ulc-0.3.zip</file>
+    </release>
+    <release version='0.3.1'>
+      <title>ULC Plugin</title>
+      <author>Dierk Koenig, Andres Almiray, Matthias Huber</author>
+      <authorEmail>dierk.koenig@canoo.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-ulc/tags/RELEASE_0_3_1/grails-ulc-0.3.1.zip</file>
+    </release>
+    <release version='0.3.2'>
+      <title>ULC Plugin</title>
+      <author>Dierk Koenig, Andres Almiray, Matthias Huber</author>
+      <authorEmail>dierk.koenig@canoo.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-ulc/tags/RELEASE_0_3_2/grails-ulc-0.3.2.zip</file>
+    </release>
+    <release version='0.2'>
+      <title>ULC Plugin</title>
+      <author>Dierk Koenig, Andres Almiray, Matthias Huber</author>
+      <authorEmail>dierk.koenig@canoo.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-ulc/tags/RELEASE_0_2/grails-ulc-0.2.zip</file>
+    </release>
+  </plugin>
+  <plugin name='modalbox' latest-release='0.4'>
+    <release version='0.4'>
+      <title>ModalBox Plugin</title>
+      <author>jm56692</author>
+      <authorEmail>jason.morris@torusit.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-modalbox/tags/RELEASE_0_4/grails-modalbox-0.4.zip</file>
+    </release>
+    <release version='0.3'>
+      <title>ModalBox Plugin</title>
+      <author>jm56692</author>
+      <authorEmail>jason.morris@torusit.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-modalbox/tags/RELEASE_0_3/grails-modalbox-0.3.zip</file>
+    </release>
+    <release version='0.1'>
+      <title>ModalBox Plugin</title>
+      <author>jm56692</author>
+      <authorEmail>jason.morris@torusit.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-modalbox/tags/RELEASE_0_1/grails-modalbox-0.1.zip</file>
+    </release>
+    <release version='0.2'>
+      <title>ModalBox Plugin</title>
+      <author>jm56692</author>
+      <authorEmail>jason.morris@torusit.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-modalbox/tags/RELEASE_0_2/grails-modalbox-0.2.zip</file>
+    </release>
+  </plugin>
+  <plugin name='yui' latest-release='2.8.2.1'>
+    <release version='2.7.0.1'>
+      <title>Yahoo! User Interface Library (YUI)</title>
+      <author>Marcel Overdijk</author>
+      <authorEmail>marceloverdijk@gmail.com</authorEmail>
+      <description>Provides integration with the Yahoo! UI Library</description>
+      <file>http://plugins.grails.org/grails-yui/tags/RELEASE_2_7_0_1/grails-yui-2.7.0.1.zip</file>
+    </release>
+    <release version='2.6.0'>
+      <title>Yahoo! User Interface Library (YUI)</title>
+      <author>Marcel Overdijk</author>
+      <authorEmail>marceloverdijk@gmail.com</authorEmail>
+      <description>Provides integration with the Yahoo! UI Library</description>
+      <file>http://plugins.grails.org/grails-yui/tags/RELEASE_2_6_0/grails-yui-2.6.0.zip</file>
+    </release>
+    <release version='2.5.1'>
+      <title>Yahoo! User Interface Library (YUI)</title>
+      <author>Marcel Overdijk</author>
+      <authorEmail>marceloverdijk@gmail.com</authorEmail>
+      <description>Provides integration with the Yahoo! UI Library</description>
+      <file>http://plugins.grails.org/grails-yui/tags/RELEASE_2_5_1/grails-yui-2.5.1.zip</file>
+    </release>
+    <release version='2.4.1'>
+      <title>Yahoo! User Interface Library (YUI)</title>
+      <author>Marcel Overdijk</author>
+      <authorEmail>marceloverdijk@gmail.com</authorEmail>
+      <description>Provides integration with the Yahoo! UI Library</description>
+      <file>http://plugins.grails.org/grails-yui/tags/RELEASE_2_4_1/grails-yui-2.4.1.zip</file>
+    </release>
+    <release version='2.7.0'>
+      <title>Yahoo! User Interface Library (YUI)</title>
+      <author>Marcel Overdijk</author>
+      <authorEmail>marceloverdijk@gmail.com</authorEmail>
+      <description>Provides integration with the Yahoo! UI Library</description>
+      <file>http://plugins.grails.org/grails-yui/tags/RELEASE_2_7_0/grails-yui-2.7.0.zip</file>
+    </release>
+    <release version='2.5.2'>
+      <title>Yahoo! User Interface Library (YUI)</title>
+      <author>Marcel Overdijk</author>
+      <authorEmail>marceloverdijk@gmail.com</authorEmail>
+      <description>Provides integration with the Yahoo! UI Library</description>
+      <file>http://plugins.grails.org/grails-yui/tags/RELEASE_2_5_2/grails-yui-2.5.2.zip</file>
+    </release>
+    <release version='2.5.0'>
+      <title>Yahoo! User Interface Library (YUI)</title>
+      <author>Marcel Overdijk</author>
+      <authorEmail>marceloverdijk@gmail.com</authorEmail>
+      <description>Provides integration with the Yahoo! UI Library</description>
+      <file>http://plugins.grails.org/grails-yui/tags/RELEASE_2_5_0/grails-yui-2.5.0.zip</file>
+    </release>
+    <release version='2.8.2'>
+      <title>Yahoo! User Interface Library (YUI)</title>
+      <author>Marcel Overdijk</author>
+      <authorEmail>marceloverdijk@gmail.com</authorEmail>
+      <description>Provides integration with the Yahoo! UI Library</description>
+      <file>http://plugins.grails.org/grails-yui/tags/RELEASE_2_8_2/grails-yui-2.8.2.zip</file>
+    </release>
+    <release version='2.6.1'>
+      <title>Yahoo! User Interface Library (YUI)</title>
+      <author>Marcel Overdijk</author>
+      <authorEmail>marceloverdijk@gmail.com</authorEmail>
+      <description>Provides integration with the Yahoo! UI Library</description>
+      <file>http://plugins.grails.org/grails-yui/tags/RELEASE_2_6_1/grails-yui-2.6.1.zip</file>
+    </release>
+    <release version='2.8.2.1'>
+      <title>Yahoo! User Interface Library (YUI)</title>
+      <author>Marcel Overdijk</author>
+      <authorEmail>marceloverdijk@gmail.com</authorEmail>
+      <description>Provides integration with the Yahoo! UI Library</description>
+      <file>http://plugins.grails.org/grails-yui/tags/RELEASE_2_8_2_1/grails-yui-2.8.2.1.zip</file>
+    </release>
+  </plugin>
+  <plugin name='yui3' latest-release='0.1.10'>
+    <release version='0.1.9'>
+      <title>YUI3 Plugin</title>
+      <author>mingfai</author>
+      <authorEmail>mingfai.ma@gmail.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-yui3/tags/RELEASE_0_1_9/grails-yui3-0.1.9.zip</file>
+    </release>
+    <release version='0.1.2'>
+      <title>YUI3 Plugin</title>
+      <author>mingfai</author>
+      <authorEmail>mingfai.ma@gmail.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-yui3/tags/RELEASE_0_1_2/grails-yui3-0.1.2.zip</file>
+    </release>
+    <release version='0.1'>
+      <title>YUI3 Plugin</title>
+      <author>mingfai</author>
+      <authorEmail>mingfai.ma@gmail.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-yui3/tags/RELEASE_0_1/grails-yui3-0.1.zip</file>
+    </release>
+    <release version='0.1.7'>
+      <title>YUI3 Plugin</title>
+      <author>mingfai</author>
+      <authorEmail>mingfai.ma@gmail.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-yui3/tags/RELEASE_0_1_7/grails-yui3-0.1.7.zip</file>
+    </release>
+    <release version='0.1.3'>
+      <title>YUI3 Plugin</title>
+      <author>mingfai</author>
+      <authorEmail>mingfai.ma@gmail.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-yui3/tags/RELEASE_0_1_3/grails-yui3-0.1.3.zip</file>
+    </release>
+    <release version='0.1.4'>
+      <title>YUI3 Plugin</title>
+      <author>mingfai</author>
+      <authorEmail>mingfai.ma@gmail.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-yui3/tags/RELEASE_0_1_4/grails-yui3-0.1.4.zip</file>
+    </release>
+    <release version='0.1.6'>
+      <title>YUI3 Plugin</title>
+      <author>mingfai</author>
+      <authorEmail>mingfai.ma@gmail.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-yui3/tags/RELEASE_0_1_6/grails-yui3-0.1.6.zip</file>
+    </release>
+    <release version='0.1.8'>
+      <title>YUI3 Plugin</title>
+      <author>mingfai</author>
+      <authorEmail>mingfai.ma@gmail.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-yui3/tags/RELEASE_0_1_8/grails-yui3-0.1.8.zip</file>
+    </release>
+    <release version='0.1.1'>
+      <title>YUI3 Plugin</title>
+      <author>mingfai</author>
+      <authorEmail>mingfai.ma@gmail.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-yui3/tags/RELEASE_0_1_1/grails-yui3-0.1.1.zip</file>
+    </release>
+    <release version='0.1.10'>
+      <title>YUI3 Plugin</title>
+      <author>mingfai</author>
+      <authorEmail>mingfai.ma@gmail.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-yui3/tags/RELEASE_0_1_10/grails-yui3-0.1.10.zip</file>
+    </release>
+    <release version='0.1.5'>
+      <title>YUI3 Plugin</title>
+      <author>mingfai</author>
+      <authorEmail>mingfai.ma@gmail.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-yui3/tags/RELEASE_0_1_5/grails-yui3-0.1.5.zip</file>
+    </release>
+  </plugin>
+  <plugin name='bubbling' latest-release='2.1.4'>
+    <release version='2.1.3'>
+      <title>Bubbling Library YUI Extension</title>
+      <author>Matthew Taylor</author>
+      <authorEmail>matthew@g2one.com</authorEmail>
+      <description>Provides integration with the Bubbling Library YUI extension.</description>
+      <file>http://plugins.grails.org/grails-bubbling/tags/RELEASE_2_1_3/grails-bubbling-2.1.3.zip</file>
+    </release>
+    <release version='1.5.0'>
+      <title>Bubbling Library YUI Extension</title>
+      <author>Matthew Taylor</author>
+      <authorEmail>matthew@g2one.com</authorEmail>
+      <description>Provides integration with the Bubbling Library YUI extension.</description>
+      <file>http://plugins.grails.org/grails-bubbling/tags/RELEASE_1_5_0/grails-bubbling-1.5.0.zip</file>
+    </release>
+    <release version='2.1.2'>
+      <title>Bubbling Library YUI Extension</title>
+      <author>Matthew Taylor</author>
+      <authorEmail>matthew@g2one.com</authorEmail>
+      <description>Provides integration with the Bubbling Library YUI extension.</description>
+      <file>http://plugins.grails.org/grails-bubbling/tags/RELEASE_2_1_2/grails-bubbling-2.1.2.zip</file>
+    </release>
+    <release version='2.1.4'>
+      <title>Bubbling Library YUI Extension</title>
+      <author>Matthew Taylor</author>
+      <authorEmail>matthew@g2one.com</authorEmail>
+      <description>Provides integration with the Bubbling Library YUI extension.</description>
+      <file>http://plugins.grails.org/grails-bubbling/tags/RELEASE_2_1_4/grails-bubbling-2.1.4.zip</file>
+    </release>
+    <release version='1.5.1'>
+      <title>Bubbling Library YUI Extension</title>
+      <author>Matthew Taylor</author>
+      <authorEmail>matthew@g2one.com</authorEmail>
+      <description>Provides integration with the Bubbling Library YUI extension.</description>
+      <file>http://plugins.grails.org/grails-bubbling/tags/RELEASE_1_5_1/grails-bubbling-1.5.1.zip</file>
+    </release>
+    <release version='2.1'>
+      <title>Bubbling Library YUI Extension</title>
+      <author>Matthew Taylor</author>
+      <authorEmail>matthew@g2one.com</authorEmail>
+      <description>Provides integration with the Bubbling Library YUI extension.</description>
+      <file>http://plugins.grails.org/grails-bubbling/tags/RELEASE_2_1/grails-bubbling-2.1.zip</file>
+    </release>
+    <release version='2.1.1'>
+      <title>Bubbling Library YUI Extension</title>
+      <author>Matthew Taylor</author>
+      <authorEmail>matthew@g2one.com</authorEmail>
+      <description>Provides integration with the Bubbling Library YUI extension.</description>
+      <file>http://plugins.grails.org/grails-bubbling/tags/RELEASE_2_1_1/grails-bubbling-2.1.1.zip</file>
+    </release>
+  </plugin>
+  <plugin name='ext' latest-release='2.0.2'>
+    <release version='2.0.2'>
+      <title>Ext Plugin</title>
+      <author>marceloverdijk</author>
+      <authorEmail>marceloverdijk@gmail.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-ext/tags/RELEASE_2_0_2/grails-ext-2.0.2.zip</file>
+    </release>
+  </plugin>
+  <plugin name='syntax-highlighter' latest-release='3.0.83'>
+    <release version='3.0.83'>
+      <title>SyntaxHighlighter Plugin</title>
+      <author>bodiam</author>
+      <authorEmail>epragt@zonnet.nl</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-syntax-highlighter/tags/RELEASE_3_0_83/grails-syntax-highlighter-3.0.83.zip</file>
+    </release>
+    <release version='0.1.3'>
+      <title>SyntaxHighlighter Plugin</title>
+      <author>bodiam</author>
+      <authorEmail>epragt@zonnet.nl</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-syntax-highlighter/tags/RELEASE_0_1_3/grails-syntax-highlighter-0.1.3.zip</file>
+    </release>
+    <release version='0.1.4'>
+      <title>SyntaxHighlighter Plugin</title>
+      <author>bodiam</author>
+      <authorEmail>epragt@zonnet.nl</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-syntax-highlighter/tags/RELEASE_0_1_4/grails-syntax-highlighter-0.1.4.zip</file>
+    </release>
+    <release version='0.1.2'>
+      <title>SyntaxHighlighter Plugin</title>
+      <author>bodiam</author>
+      <authorEmail>epragt@zonnet.nl</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-syntax-highlighter/tags/RELEASE_0_1_2/grails-syntax-highlighter-0.1.2.zip</file>
+    </release>
+    <release version='0.1'>
+      <title>SyntaxHighlighter Plugin</title>
+      <author>bodiam</author>
+      <authorEmail>epragt@zonnet.nl</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-syntax-highlighter/tags/RELEASE_0_1/grails-syntax-highlighter-0.1.zip</file>
+    </release>
+    <release version='0.1.1'>
+      <title>SyntaxHighlighter Plugin</title>
+      <author>bodiam</author>
+      <authorEmail>epragt@zonnet.nl</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-syntax-highlighter/tags/RELEASE_0_1_1/grails-syntax-highlighter-0.1.1.zip</file>
+    </release>
+  </plugin>
+  <plugin name='j2d' latest-release='0.4.2'>
+    <release version='0.1'>
+      <title>J2D Plugin</title>
+      <author>aalmiray</author>
+      <authorEmail>aalmiray@yahoo.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-j2d/tags/RELEASE_0_1/grails-j2d-0.1.zip</file>
+    </release>
+    <release version='0.4'>
+      <title>J2D Plugin</title>
+      <author>aalmiray</author>
+      <authorEmail>aalmiray@yahoo.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-j2d/tags/RELEASE_0_4/grails-j2d-0.4.zip</file>
+    </release>
+    <release version='0.3'>
+      <title>J2D Plugin</title>
+      <author>aalmiray</author>
+      <authorEmail>aalmiray@yahoo.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-j2d/tags/RELEASE_0_3/grails-j2d-0.3.zip</file>
+    </release>
+    <release version='0.4.2'>
+      <title>J2D Plugin</title>
+      <author>aalmiray</author>
+      <authorEmail>aalmiray@yahoo.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-j2d/tags/RELEASE_0_4_2/grails-j2d-0.4.2.zip</file>
+    </release>
+    <release version='0.4.1'>
+      <title>J2D Plugin</title>
+      <author>aalmiray</author>
+      <authorEmail>aalmiray@yahoo.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-j2d/tags/RELEASE_0_4_1/grails-j2d-0.4.1.zip</file>
+    </release>
+    <release version='0.2'>
+      <title>J2D Plugin</title>
+      <author>aalmiray</author>
+      <authorEmail>aalmiray@yahoo.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-j2d/tags/RELEASE_0_2/grails-j2d-0.2.zip</file>
+    </release>
+  </plugin>
+  <plugin name='jquery' latest-release='1.8.3'>
+    <release version='1.4.1.1'>
+      <title>JQuery for Grails</title>
+      <author>Sergey Nebolsin, Craig Jone, Marc Palmer and Finn Herpich</author>
+      <authorEmail>nebolsin@gmail.com, craigjones@maximsc.com, marc@grailsrocks.com and finn.herpich@marfinn-software.de</authorEmail>
+      <description>Provides integration for the JQuery library with grails JavascriptProvider</description>
+      <file>http://plugins.grails.org/grails-jquery/tags/RELEASE_1_4_1_1/grails-jquery-1.4.1.1.zip</file>
+    </release>
+    <release version='1.4.0.1'>
+      <title>JQuery for Grails</title>
+      <author>Sergey Nebolsin, Craig Jone, Marc Palmer and Finn Herpich</author>
+      <authorEmail>nebolsin@gmail.com, craigjones@maximsc.com, marc@grailsrocks.com and finn.herpich@marfinn-software.de</authorEmail>
+      <description>Provides integration for the JQuery library with grails JavascriptProvider</description>
+      <file>http://plugins.grails.org/grails-jquery/tags/RELEASE_1_4_0_1/grails-jquery-1.4.0.1.zip</file>
+    </release>
+    <release version='1.4.2.6'>
+      <title>JQuery for Grails</title>
+      <author>Sergey Nebolsin, Craig Jone, Marc Palmer and Finn Herpich</author>
+      <authorEmail>nebolsin@gmail.com, craigjones@maximsc.com, marc@grailsrocks.com and finn.herpich@marfinn-software.de</authorEmail>
+      <description>Provides integration for the JQuery library with grails JavascriptProvider</description>
+      <file>http://plugins.grails.org/grails-jquery/tags/RELEASE_1_4_2_6/grails-jquery-1.4.2.6.zip</file>
+    </release>
+    <release version='1.3.2.2'>
+      <title>JQuery for Grails</title>
+      <author>Sergey Nebolsin, Craig Jone, Marc Palmer and Finn Herpich</author>
+      <authorEmail>nebolsin@gmail.com, craigjones@maximsc.com, marc@grailsrocks.com and finn.herpich@marfinn-software.de</authorEmail>
+      <description>Provides integration for the JQuery library with grails JavascriptProvider</description>
+      <file>http://plugins.grails.org/grails-jquery/tags/RELEASE_1_3_2_2/grails-jquery-1.3.2.2.zip</file>
+    </release>
+    <release version='1.4.4'>
+      <title>JQuery for Grails</title>
+      <author>Sergey Nebolsin, Craig Jone, Marc Palmer and Finn Herpich</author>
+      <authorEmail>nebolsin@gmail.com, craigjones@maximsc.com, marc@grailsrocks.com and finn.herpich@marfinn-software.de</authorEmail>
+      <description>Provides integration for the JQuery library with grails JavascriptProvider</description>
+      <file>http://plugins.grails.org/grails-jquery/tags/RELEASE_1_4_4/grails-jquery-1.4.4.zip</file>
+    </release>
+    <release version='1.3.2.4'>
+      <title>JQuery for Grails</title>
+      <author>Sergey Nebolsin, Craig Jone, Marc Palmer and Finn Herpich</author>
+      <authorEmail>nebolsin@gmail.com, craigjones@maximsc.com, marc@grailsrocks.com and finn.herpich@marfinn-software.de</authorEmail>
+      <description>Provides integration for the JQuery library with grails JavascriptProvider</description>
+      <file>http://plugins.grails.org/grails-jquery/tags/RELEASE_1_3_2_4/grails-jquery-1.3.2.4.zip</file>
+    </release>
+    <release version='1.4.4.1'>
+      <title>JQuery for Grails</title>
+      <author>Sergey Nebolsin, Craig Jone, Marc Palmer and Finn Herpich</author>
+      <authorEmail>nebolsin@gmail.com, craigjones@maximsc.com, marc@grailsrocks.com and finn.herpich@marfinn-software.de</authorEmail>
+      <description>Provides integration for the JQuery library with grails JavascriptProvider</description>
+      <file>http://plugins.grails.org/grails-jquery/tags/RELEASE_1_4_4_1/grails-jquery-1.4.4.1.zip</file>
+    </release>
+    <release version='1.6.1'>
+      <title>JQuery for Grails</title>
+      <author>Sergey Nebolsin, Craig Jone, Marc Palmer and Finn Herpich</author>
+      <authorEmail>nebolsin@gmail.com, craigjones@maximsc.com, marc@grailsrocks.com and finn.herpich@marfinn-software.de</authorEmail>
+      <description>Provides integration for the JQuery library with grails JavascriptProvider</description>
+      <file>http://plugins.grails.org/grails-jquery/tags/RELEASE_1_6_1/grails-jquery-1.6.1.zip</file>
+    </release>
+    <release version='1.4.2.3'>
+      <title>JQuery for Grails</title>
+      <author>Sergey Nebolsin, Craig Jone, Marc Palmer and Finn Herpich</author>
+      <authorEmail>nebolsin@gmail.com, craigjones@maximsc.com, marc@grailsrocks.com and finn.herpich@marfinn-software.de</authorEmail>
+      <description>Provides integration for the JQuery library with grails JavascriptProvider</description>
+      <file>http://plugins.grails.org/grails-jquery/tags/RELEASE_1_4_2_3/grails-jquery-1.4.2.3.zip</file>
+    </release>
+    <release version='1.3.2.1'>
+      <title>JQuery for Grails</title>
+      <author>Sergey Nebolsin, Craig Jone, Marc Palmer and Finn Herpich</author>
+      <authorEmail>nebolsin@gmail.com, craigjones@maximsc.com, marc@grailsrocks.com and finn.herpich@marfinn-software.de</authorEmail>
+      <description>Provides integration for the JQuery library with grails JavascriptProvider</description>
+      <file>http://plugins.grails.org/grails-jquery/tags/RELEASE_1_3_2_1/grails-jquery-1.3.2.1.zip</file>
+    </release>
+    <release version='1.4.2.7'>
+      <title>JQuery for Grails</title>
+      <author>Sergey Nebolsin, Craig Jone, Marc Palmer and Finn Herpich</author>
+      <authorEmail>nebolsin@gmail.com, craigjones@maximsc.com, marc@grailsrocks.com and finn.herpich@marfinn-software.de</authorEmail>
+      <description>Provides integration for the JQuery library with grails JavascriptProvider</description>
+      <file>http://plugins.grails.org/grails-jquery/tags/RELEASE_1_4_2_7/grails-jquery-1.4.2.7.zip</file>
+    </release>
+    <release version='1.5.2'>
+      <title>JQuery for Grails</title>
+      <author>Sergey Nebolsin, Craig Jone, Marc Palmer and Finn Herpich</author>
+      <authorEmail>nebolsin@gmail.com, craigjones@maximsc.com, marc@grailsrocks.com and finn.herpich@marfinn-software.de</authorEmail>
+      <description>Provides integration for the JQuery library with grails JavascriptProvider</description>
+      <file>http://plugins.grails.org/grails-jquery/tags/RELEASE_1_5_2/grails-jquery-1.5.2.zip</file>
+    </release>
+    <release version='1.8.0'>
+      <title>JQuery for Grails</title>
+      <author>Sergey Nebolsin, Craig Jone, Marc Palmer and Finn Herpich</author>
+      <authorEmail>nebolsin@gmail.com, craigjones@maximsc.com, marc@grailsrocks.com and finn.herpich@marfinn-software.de</authorEmail>
+      <description>Provides integration for the JQuery library with grails JavascriptProvider</description>
+      <file>http://grails.org/plugins/grails-jquery/tags/RELEASE_1_8_0/grails-jquery-1.8.0.zip</file>
+    </release>
+    <release version='1.6'>
+      <title>JQuery for Grails</title>
+      <author>Sergey Nebolsin, Craig Jone, Marc Palmer and Finn Herpich</author>
+      <authorEmail>nebolsin@gmail.com, craigjones@maximsc.com, marc@grailsrocks.com and finn.herpich@marfinn-software.de</authorEmail>
+      <description>Provides integration for the JQuery library with grails JavascriptProvider</description>
+      <file>http://plugins.grails.org/grails-jquery/tags/RELEASE_1_6/grails-jquery-1.6.zip</file>
+    </release>
+    <release version='1.0RC2b'>
+      <title>JQuery for Grails</title>
+      <author>Sergey Nebolsin, Craig Jone, Marc Palmer and Finn Herpich</author>
+      <authorEmail>nebolsin@gmail.com, craigjones@maximsc.com, marc@grailsrocks.com and finn.herpich@marfinn-software.de</authorEmail>
+      <description>Provides integration for the JQuery library with grails JavascriptProvider</description>
+      <file>http://plugins.grails.org/grails-jquery/tags/RELEASE_1_0RC2b/grails-jquery-1.0RC2b.zip</file>
+    </release>
+    <release version='1.0RC2'>
+      <title>JQuery for Grails</title>
+      <author>Sergey Nebolsin, Craig Jone, Marc Palmer and Finn Herpich</author>
+      <authorEmail>nebolsin@gmail.com, craigjones@maximsc.com, marc@grailsrocks.com and finn.herpich@marfinn-software.de</authorEmail>
+      <description>Provides integration for the JQuery library with grails JavascriptProvider</description>
+      <file>http://plugins.grails.org/grails-jquery/tags/RELEASE_1_0RC2/grails-jquery-1.0RC2.zip</file>
+    </release>
+    <release version='1.6.1.1'>
+      <title>JQuery for Grails</title>
+      <author>Sergey Nebolsin, Craig Jone, Marc Palmer and Finn Herpich</author>
+      <authorEmail>nebolsin@gmail.com, craigjones@maximsc.com, marc@grailsrocks.com and finn.herpich@marfinn-software.de</authorEmail>
+      <description>Provides integration for the JQuery library with grails JavascriptProvider</description>
+      <file>http://plugins.grails.org/grails-jquery/tags/RELEASE_1_6_1_1/grails-jquery-1.6.1.1.zip</file>
+    </release>
+    <release version='1.8.2'>
+      <title>JQuery for Grails</title>
+      <author>Sergey Nebolsin, Craig Jone, Marc Palmer and Finn Herpich</author>
+      <authorEmail>nebolsin@gmail.com, craigjones@maximsc.com, marc@grailsrocks.com and finn.herpich@marfinn-software.de</authorEmail>
+      <description>Provides integration for the JQuery library with grails JavascriptProvider</description>
+      <file>http://grails.org/plugins/grails-jquery/tags/RELEASE_1_8_2/grails-jquery-1.8.2.zip</file>
+    </release>
+    <release version='1.4.2.2'>
+      <title>JQuery for Grails</title>
+      <author>Sergey Nebolsin, Craig Jone, Marc Palmer and Finn Herpich</author>
+      <authorEmail>nebolsin@gmail.com, craigjones@maximsc.com, marc@grailsrocks.com and finn.herpich@marfinn-software.de</authorEmail>
+      <description>Provides integration for the JQuery library with grails JavascriptProvider</description>
+      <file>http://plugins.grails.org/grails-jquery/tags/RELEASE_1_4_2_2/grails-jquery-1.4.2.2.zip</file>
+    </release>
+    <release version='1.0RC1'>
+      <title>JQuery for Grails</title>
+      <author>Sergey Nebolsin, Craig Jone, Marc Palmer and Finn Herpich</author>
+      <authorEmail>nebolsin@gmail.com, craigjones@maximsc.com, marc@grailsrocks.com and finn.herpich@marfinn-software.de</authorEmail>
+      <description>Provides integration for the JQuery library with grails JavascriptProvider</description>
+      <file>http://plugins.grails.org/grails-jquery/tags/RELEASE_1_0RC1/grails-jquery-1.0RC1.zip</file>
+    </release>
+    <release version='1.4.3.1'>
+      <title>JQuery for Grails</title>
+      <author>Sergey Nebolsin, Craig Jone, Marc Palmer and Finn Herpich</author>
+      <authorEmail>nebolsin@gmail.com, craigjones@maximsc.com, marc@grailsrocks.com and finn.herpich@marfinn-software.de</authorEmail>
+      <description>Provides integration for the JQuery library with grails JavascriptProvider</description>
+      <file>http://plugins.grails.org/grails-jquery/tags/RELEASE_1_4_3_1/grails-jquery-1.4.3.1.zip</file>
+    </release>
+    <release version='1.7.1'>
+      <title>JQuery for Grails</title>
+      <author>Sergey Nebolsin, Craig Jone, Marc Palmer and Finn Herpich</author>
+      <authorEmail>nebolsin@gmail.com, craigjones@maximsc.com, marc@grailsrocks.com and finn.herpich@marfinn-software.de</authorEmail>
+      <description>Provides integration for the JQuery library with grails JavascriptProvider</description>
+      <file>http://plugins.grails.org/grails-jquery/tags/RELEASE_1_7_1/grails-jquery-1.7.1.zip</file>
+    </release>
+    <release version='1.7'>
+      <title>JQuery for Grails</title>
+      <author>Sergey Nebolsin, Craig Jone, Marc Palmer and Finn Herpich</author>
+      <authorEmail>nebolsin@gmail.com, craigjones@maximsc.com, marc@grailsrocks.com and finn.herpich@marfinn-software.de</authorEmail>
+      <description>Provides integration for the JQuery library with grails JavascriptProvider</description>
+      <file>http://plugins.grails.org/grails-jquery/tags/RELEASE_1_7/grails-jquery-1.7.zip</file>
+    </release>
+    <release version='1.7.2'>
+      <title>JQuery for Grails</title>
+      <author>Sergey Nebolsin, Craig Jone, Marc Palmer and Finn Herpich</author>
+      <authorEmail>nebolsin@gmail.com, craigjones@maximsc.com, marc@grailsrocks.com and finn.herpich@marfinn-software.de</authorEmail>
+      <description>Provides integration for the JQuery library with grails JavascriptProvider</description>
+      <file>http://grails.org/plugins/grails-jquery/tags/RELEASE_1_7_2/grails-jquery-1.7.2.zip</file>
+    </release>
+    <release version='1.4.2.4'>
+      <title>JQuery for Grails</title>
+      <author>Sergey Nebolsin, Craig Jone, Marc Palmer and Finn Herpich</author>
+      <authorEmail>nebolsin@gmail.com, craigjones@maximsc.com, marc@grailsrocks.com and finn.herpich@marfinn-software.de</authorEmail>
+      <description>Provides integration for the JQuery library with grails JavascriptProvider</description>
+      <file>http://plugins.grails.org/grails-jquery/tags/RELEASE_1_4_2_4/grails-jquery-1.4.2.4.zip</file>
+    </release>
+    <release version='1.4.3.2'>
+      <title>JQuery for Grails</title>
+      <author>Sergey Nebolsin, Craig Jone, Marc Palmer and Finn Herpich</author>
+      <authorEmail>nebolsin@gmail.com, craigjones@maximsc.com, marc@grailsrocks.com and finn.herpich@marfinn-software.de</authorEmail>
+      <description>Provides integration for the JQuery library with grails JavascriptProvider</description>
+      <file>http://plugins.grails.org/grails-jquery/tags/RELEASE_1_4_3_2/grails-jquery-1.4.3.2.zip</file>
+    </release>
+    <release version='1.4.2.5'>
+      <title>JQuery for Grails</title>
+      <author>Sergey Nebolsin, Craig Jone, Marc Palmer and Finn Herpich</author>
+      <authorEmail>nebolsin@gmail.com, craigjones@maximsc.com, marc@grailsrocks.com and finn.herpich@marfinn-software.de</authorEmail>
+      <description>Provides integration for the JQuery library with grails JavascriptProvider</description>
+      <file>http://plugins.grails.org/grails-jquery/tags/RELEASE_1_4_2_5/grails-jquery-1.4.2.5.zip</file>
+    </release>
+    <release version='1.4.2.1'>
+      <title>JQuery for Grails</title>
+      <author>Sergey Nebolsin, Craig Jone, Marc Palmer and Finn Herpich</author>
+      <authorEmail>nebolsin@gmail.com, craigjones@maximsc.com, marc@grailsrocks.com and finn.herpich@marfinn-software.de</authorEmail>
+      <description>Provides integration for the JQuery library with grails JavascriptProvider</description>
+      <file>http://plugins.grails.org/grails-jquery/tags/RELEASE_1_4_2_1/grails-jquery-1.4.2.1.zip</file>
+    </release>
+    <release version='1.5.1'>
+      <title>JQuery for Grails</title>
+      <author>Sergey Nebolsin, Craig Jone, Marc Palmer and Finn Herpich</author>
+      <authorEmail>nebolsin@gmail.com, craigjones@maximsc.com, marc@grailsrocks.com and finn.herpich@marfinn-software.de</authorEmail>
+      <description>Provides integration for the JQuery library with grails JavascriptProvider</description>
+      <file>http://plugins.grails.org/grails-jquery/tags/RELEASE_1_5_1/grails-jquery-1.5.1.zip</file>
+    </release>
+    <release version='1.8.3'>
+      <title>JQuery for Grails</title>
+      <author>Sergey Nebolsin, Craig Jone, Marc Palmer and Finn Herpich</author>
+      <authorEmail>nebolsin@gmail.com, craigjones@maximsc.com, marc@grailsrocks.com and finn.herpich@marfinn-software.de</authorEmail>
+      <description>Provides integration for the JQuery library with grails JavascriptProvider</description>
+      <file>http://grails.org/plugins/grails-jquery/tags/RELEASE_1_8_3/grails-jquery-1.8.3.zip</file>
+    </release>
+    <release version='1.3.2.3'>
+      <title>JQuery for Grails</title>
+      <author>Sergey Nebolsin, Craig Jone, Marc Palmer and Finn Herpich</author>
+      <authorEmail>nebolsin@gmail.com, craigjones@maximsc.com, marc@grailsrocks.com and finn.herpich@marfinn-software.de</authorEmail>
+      <description>Provides integration for the JQuery library with grails JavascriptProvider</description>
+      <file>http://plugins.grails.org/grails-jquery/tags/RELEASE_1_3_2_3/grails-jquery-1.3.2.3.zip</file>
+    </release>
+  </plugin>
+  <plugin name='iui' latest-release='0.4'>
+    <release version='0.3-SNAPSHOT'>
+      <title>iUI Plugin</title>
+      <author>cjudd</author>
+      <authorEmail>cjudd@juddsolutions.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-iui/tags/RELEASE_0_3-SNAPSHOT/grails-iui-0.3-SNAPSHOT.zip</file>
+    </release>
+    <release version='0.1'>
+      <title>iUI Plugin</title>
+      <author>cjudd</author>
+      <authorEmail>cjudd@juddsolutions.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-iui/tags/RELEASE_0_1/grails-iui-0.1.zip</file>
+    </release>
+    <release version='0.2'>
+      <title>iUI Plugin</title>
+      <author>cjudd</author>
+      <authorEmail>cjudd@juddsolutions.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-iui/tags/RELEASE_0_2/grails-iui-0.2.zip</file>
+    </release>
+    <release version='0.4'>
+      <title>iUI Plugin</title>
+      <author>cjudd</author>
+      <authorEmail>cjudd@juddsolutions.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-iui/tags/RELEASE_0_4/grails-iui-0.4.zip</file>
+    </release>
+  </plugin>
+  <plugin name='iwebkit' latest-release='0.5'>
+    <release version='0.5'>
+      <title>iwebkit Plugin</title>
+      <author>sebi2706</author>
+      <authorEmail>sblanc@e-id.nl</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-iwebkit/tags/RELEASE_0_5/grails-iwebkit-0.5.zip</file>
+    </release>
+    <release version='0.2'>
+      <title>iwebkit Plugin</title>
+      <author>sebi2706</author>
+      <authorEmail>sblanc@e-id.nl</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-iwebkit/tags/RELEASE_0_2/grails-iwebkit-0.2.zip</file>
+    </release>
+    <release version='0.3'>
+      <title>iwebkit Plugin</title>
+      <author>sebi2706</author>
+      <authorEmail>sblanc@e-id.nl</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-iwebkit/tags/RELEASE_0_3/grails-iwebkit-0.3.zip</file>
+    </release>
+    <release version='0.1'>
+      <title>iwebkit Plugin</title>
+      <author>sebi2706</author>
+      <authorEmail>sblanc@e-id.nl</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-iwebkit/tags/RELEASE_0_1/grails-iwebkit-0.1.zip</file>
+    </release>
+    <release version='0.4'>
+      <title>iwebkit Plugin</title>
+      <author>sebi2706</author>
+      <authorEmail>sblanc@e-id.nl</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-iwebkit/tags/RELEASE_0_4/grails-iwebkit-0.4.zip</file>
+    </release>
+  </plugin>
+  <plugin name='mootools' latest-release='0.1.3'>
+    <release version='0.1.1'>
+      <title>Mootools Plugin</title>
+      <author>agile.guo</author>
+      <authorEmail>agile.guo@gmail.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-mootools/tags/RELEASE_0_1_1/grails-mootools-0.1.1.zip</file>
+    </release>
+    <release version='0.1.3'>
+      <title>Mootools Plugin</title>
+      <author>agile.guo</author>
+      <authorEmail>agile.guo@gmail.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-mootools/tags/RELEASE_0_1_3/grails-mootools-0.1.3.zip</file>
+    </release>
+    <release version='0.1'>
+      <title>Mootools Plugin</title>
+      <author>agile.guo</author>
+      <authorEmail>agile.guo@gmail.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-mootools/tags/RELEASE_0_1/grails-mootools-0.1.zip</file>
+    </release>
+  </plugin>
+  <plugin name='cometd' latest-release='0.2.2'>
+    <release version='0.2.2'>
+      <title>CometD Plugin</title>
+      <author>Marcus Better</author>
+      <authorEmail>marcus@better.se</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-cometd/tags/RELEASE_0_2_2/grails-cometd-0.2.2.zip</file>
+    </release>
+    <release version='0.2.1'>
+      <title>CometD Plugin</title>
+      <author>Marcus Better</author>
+      <authorEmail>marcus@better.se</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-cometd/tags/RELEASE_0_2_1/grails-cometd-0.2.1.zip</file>
+    </release>
+    <release version='0.1.2'>
+      <title>CometD Plugin</title>
+      <author>Marcus Better</author>
+      <authorEmail>marcus@better.se</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-cometd/tags/RELEASE_0_1_2/grails-cometd-0.1.2.zip</file>
+    </release>
+    <release version='0.1.5'>
+      <title>CometD Plugin</title>
+      <author>Marcus Better</author>
+      <authorEmail>marcus@better.se</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-cometd/tags/RELEASE_0_1_5/grails-cometd-0.1.5.zip</file>
+    </release>
+    <release version='0.1'>
+      <title>CometD Plugin</title>
+      <author>Marcus Better</author>
+      <authorEmail>marcus@better.se</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-cometd/tags/RELEASE_0_1/grails-cometd-0.1.zip</file>
+    </release>
+    <release version='0.1.4'>
+      <title>CometD Plugin</title>
+      <author>Marcus Better</author>
+      <authorEmail>marcus@better.se</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-cometd/tags/RELEASE_0_1_4/grails-cometd-0.1.4.zip</file>
+    </release>
+    <release version='0.1.3'>
+      <title>CometD Plugin</title>
+      <author>Marcus Better</author>
+      <authorEmail>marcus@better.se</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-cometd/tags/RELEASE_0_1_3/grails-cometd-0.1.3.zip</file>
+    </release>
+    <release version='0.2'>
+      <title>CometD Plugin</title>
+      <author>Marcus Better</author>
+      <authorEmail>marcus@better.se</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-cometd/tags/RELEASE_0_2/grails-cometd-0.2.zip</file>
+    </release>
+  </plugin>
+  <plugin name='calendar' latest-release='1.2.1'>
+    <release version='1.1.1'>
+      <title>Calendar Plugin</title>
+      <author>mchiareli, cmorgia</author>
+      <authorEmail>mchiareli@gmail.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-calendar/tags/RELEASE_1_1_1/grails-calendar-1.1.1.zip</file>
+    </release>
+    <release version='1.2.0-SNAPSHOT'>
+      <title>Calendar Plugin</title>
+      <author>mchiareli, cmorgia</author>
+      <authorEmail>mchiareli@gmail.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-calendar/tags/RELEASE_1_2_0-SNAPSHOT/grails-calendar-1.2.0-SNAPSHOT.zip</file>
+    </release>
+    <release version='1.0.0'>
+      <title>Calendar Plugin</title>
+      <author>mchiareli, cmorgia</author>
+      <authorEmail>mchiareli@gmail.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-calendar/tags/RELEASE_1_0_0/grails-calendar-1.0.0.zip</file>
+    </release>
+    <release version='1.2.1'>
+      <title>Calendar Plugin</title>
+      <author>mchiareli, cmorgia</author>
+      <authorEmail>mchiareli@gmail.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-calendar/tags/RELEASE_1_2_1/grails-calendar-1.2.1.zip</file>
+    </release>
+    <release version='1.2.0-SNAPSHOT2'>
+      <title>Calendar Plugin</title>
+      <author>mchiareli, cmorgia</author>
+      <authorEmail>mchiareli@gmail.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-calendar/tags/RELEASE_1_2_0-SNAPSHOT2/grails-calendar-1.2.0-SNAPSHOT2.zip</file>
+    </release>
+    <release version='1.2.0-SNAPSHOT3'>
+      <title>Calendar Plugin</title>
+      <author>mchiareli, cmorgia</author>
+      <authorEmail>mchiareli@gmail.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-calendar/tags/RELEASE_1_2_0-SNAPSHOT3/grails-calendar-1.2.0-SNAPSHOT3.zip</file>
+    </release>
+    <release version='1.0.1'>
+      <title>Calendar Plugin</title>
+      <author>mchiareli, cmorgia</author>
+      <authorEmail>mchiareli@gmail.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-calendar/tags/RELEASE_1_0_1/grails-calendar-1.0.1.zip</file>
+    </release>
+    <release version='1.1.0'>
+      <title>Calendar Plugin</title>
+      <author>mchiareli, cmorgia</author>
+      <authorEmail>mchiareli@gmail.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-calendar/tags/RELEASE_1_1_0/grails-calendar-1.1.0.zip</file>
+    </release>
+  </plugin>
+  <plugin name='tooltip' latest-release='0.7'>
+    <release version='0.1'>
+      <title>Tooltip Plugin</title>
+      <author>Sven Lange</author>
+      <authorEmail>sv3n.lange@gmail.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-tooltip/tags/RELEASE_0_1/grails-tooltip-0.1.zip</file>
+    </release>
+    <release version='0.3'>
+      <title>Tooltip Plugin</title>
+      <author>Sven Lange</author>
+      <authorEmail>sv3n.lange@gmail.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-tooltip/tags/RELEASE_0_3/grails-tooltip-0.3.zip</file>
+    </release>
+    <release version='0.4'>
+      <title>Tooltip Plugin</title>
+      <author>Sven Lange</author>
+      <authorEmail>sv3n.lange@gmail.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-tooltip/tags/RELEASE_0_4/grails-tooltip-0.4.zip</file>
+    </release>
+    <release version='0.6'>
+      <title>Tooltip Plugin</title>
+      <author>Sven Lange</author>
+      <authorEmail>sv3n.lange@gmail.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-tooltip/tags/RELEASE_0_6/grails-tooltip-0.6.zip</file>
+    </release>
+    <release version='0.5'>
+      <title>Tooltip Plugin</title>
+      <author>Sven Lange</author>
+      <authorEmail>sv3n.lange@gmail.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-tooltip/tags/RELEASE_0_5/grails-tooltip-0.5.zip</file>
+    </release>
+    <release version='0.2'>
+      <title>Tooltip Plugin</title>
+      <author>Sven Lange</author>
+      <authorEmail>sv3n.lange@gmail.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-tooltip/tags/RELEASE_0_2/grails-tooltip-0.2.zip</file>
+    </release>
+    <release version='0.7'>
+      <title>Tooltip Plugin</title>
+      <author>Sven Lange</author>
+      <authorEmail>sv3n.lange@gmail.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-tooltip/tags/RELEASE_0_7/grails-tooltip-0.7.zip</file>
+    </release>
+  </plugin>
+  <plugin name='applet' latest-release='0.1'>
+    <release version='0.1'>
+      <title>Applet Plugin</title>
+      <author>mingfai</author>
+      <authorEmail>mingfai.ma@gmail.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-applet/tags/RELEASE_0_1/grails-applet-0.1.zip</file>
+    </release>
+  </plugin>
+  <plugin name='gdsflex' latest-release='0.9.0'>
+    <release version='0.1'>
+      <title>GraniteDS Flex Plugin</title>
+      <author>wdrai</author>
+      <authorEmail>william.drai@graniteds.org </authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-gdsflex/tags/RELEASE_0_1/grails-gdsflex-0.1.zip</file>
+    </release>
+    <release version='0.8.2'>
+      <title>GraniteDS Flex Plugin</title>
+      <author>wdrai</author>
+      <authorEmail>william.drai@graniteds.org </authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-gdsflex/tags/RELEASE_0_8_2/grails-gdsflex-0.8.2.zip</file>
+    </release>
+    <release version='0.8.3'>
+      <title>GraniteDS Flex Plugin</title>
+      <author>wdrai</author>
+      <authorEmail>william.drai@graniteds.org </authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-gdsflex/tags/RELEASE_0_8_3/grails-gdsflex-0.8.3.zip</file>
+    </release>
+    <release version='0.9.0'>
+      <title>GraniteDS Flex Plugin</title>
+      <author>wdrai</author>
+      <authorEmail>william.drai@graniteds.org </authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-gdsflex/tags/RELEASE_0_9_0/grails-gdsflex-0.9.0.zip</file>
+    </release>
+    <release version='0.8.5'>
+      <title>GraniteDS Flex Plugin</title>
+      <author>wdrai</author>
+      <authorEmail>william.drai@graniteds.org </authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-gdsflex/tags/RELEASE_0_8_5/grails-gdsflex-0.8.5.zip</file>
+    </release>
+    <release version='0.7.1'>
+      <title>GraniteDS Flex Plugin</title>
+      <author>wdrai</author>
+      <authorEmail>william.drai@graniteds.org </authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-gdsflex/tags/RELEASE_0_7_1/grails-gdsflex-0.7.1.zip</file>
+    </release>
+    <release version='0.3.2'>
+      <title>GraniteDS Flex Plugin</title>
+      <author>wdrai</author>
+      <authorEmail>william.drai@graniteds.org </authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-gdsflex/tags/RELEASE_0_3_2/grails-gdsflex-0.3.2.zip</file>
+    </release>
+    <release version='0.8.0'>
+      <title>GraniteDS Flex Plugin</title>
+      <author>wdrai</author>
+      <authorEmail>william.drai@graniteds.org </authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-gdsflex/tags/RELEASE_0_8_0/grails-gdsflex-0.8.0.zip</file>
+    </release>
+    <release version='0.2'>
+      <title>GraniteDS Flex Plugin</title>
+      <author>wdrai</author>
+      <authorEmail>william.drai@graniteds.org </authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-gdsflex/tags/RELEASE_0_2/grails-gdsflex-0.2.zip</file>
+    </release>
+    <release version='0.5'>
+      <title>GraniteDS Flex Plugin</title>
+      <author>wdrai</author>
+      <authorEmail>william.drai@graniteds.org </authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-gdsflex/tags/RELEASE_0_5/grails-gdsflex-0.5.zip</file>
+    </release>
+    <release version='0.6'>
+      <title>GraniteDS Flex Plugin</title>
+      <author>wdrai</author>
+      <authorEmail>william.drai@graniteds.org </authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-gdsflex/tags/RELEASE_0_6/grails-gdsflex-0.6.zip</file>
+    </release>
+    <release version='0.8.4'>
+      <title>GraniteDS Flex Plugin</title>
+      <author>wdrai</author>
+      <authorEmail>william.drai@graniteds.org </authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-gdsflex/tags/RELEASE_0_8_4/grails-gdsflex-0.8.4.zip</file>
+    </release>
+    <release version='0.4'>
+      <title>GraniteDS Flex Plugin</title>
+      <author>wdrai</author>
+      <authorEmail>william.drai@graniteds.org </authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-gdsflex/tags/RELEASE_0_4/grails-gdsflex-0.4.zip</file>
+    </release>
+    <release version='0.8.1'>
+      <title>GraniteDS Flex Plugin</title>
+      <author>wdrai</author>
+      <authorEmail>william.drai@graniteds.org </authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-gdsflex/tags/RELEASE_0_8_1/grails-gdsflex-0.8.1.zip</file>
+    </release>
+    <release version='0.7'>
+      <title>GraniteDS Flex Plugin</title>
+      <author>wdrai</author>
+      <authorEmail>william.drai@graniteds.org </authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-gdsflex/tags/RELEASE_0_7/grails-gdsflex-0.7.zip</file>
+    </release>
+    <release version='0.6.2'>
+      <title>GraniteDS Flex Plugin</title>
+      <author>wdrai</author>
+      <authorEmail>william.drai@graniteds.org </authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-gdsflex/tags/RELEASE_0_6_2/grails-gdsflex-0.6.2.zip</file>
+    </release>
+    <release version='0.3.1'>
+      <title>GraniteDS Flex Plugin</title>
+      <author>wdrai</author>
+      <authorEmail>william.drai@graniteds.org </authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-gdsflex/tags/RELEASE_0_3_1/grails-gdsflex-0.3.1.zip</file>
+    </release>
+    <release version='0.7.2'>
+      <title>GraniteDS Flex Plugin</title>
+      <author>wdrai</author>
+      <authorEmail>william.drai@graniteds.org </authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-gdsflex/tags/RELEASE_0_7_2/grails-gdsflex-0.7.2.zip</file>
+    </release>
+    <release version='0.6.1'>
+      <title>GraniteDS Flex Plugin</title>
+      <author>wdrai</author>
+      <authorEmail>william.drai@graniteds.org </authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-gdsflex/tags/RELEASE_0_6_1/grails-gdsflex-0.6.1.zip</file>
+    </release>
+    <release version='0.3'>
+      <title>GraniteDS Flex Plugin</title>
+      <author>wdrai</author>
+      <authorEmail>william.drai@graniteds.org </authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-gdsflex/tags/RELEASE_0_3/grails-gdsflex-0.3.zip</file>
+    </release>
+  </plugin>
+  <plugin name='google-chart' latest-release='0.5.2'>
+    <release version='0.4.3'>
+      <title>Google Chart Plugin</title>
+      <author>ecspike</author>
+      <authorEmail>james.l.williams@gmail.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-google-chart/tags/RELEASE_0_4_3/grails-google-chart-0.4.3.zip</file>
+    </release>
+    <release version='0.4.7'>
+      <title>Google Chart Plugin</title>
+      <author>ecspike</author>
+      <authorEmail>james.l.williams@gmail.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-google-chart/tags/RELEASE_0_4_7/grails-google-chart-0.4.7.zip</file>
+    </release>
+    <release version='0.4.5'>
+      <title>Google Chart Plugin</title>
+      <author>ecspike</author>
+      <authorEmail>james.l.williams@gmail.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-google-chart/tags/RELEASE_0_4_5/grails-google-chart-0.4.5.zip</file>
+    </release>
+    <release version='0.1'>
+      <title>Google Chart Plugin</title>
+      <author>ecspike</author>
+      <authorEmail>james.l.williams@gmail.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-google-chart/tags/RELEASE_0_1/grails-google-chart-0.1.zip</file>
+    </release>
+    <release version='0.4.1'>
+      <title>Google Chart Plugin</title>
+      <author>ecspike</author>
+      <authorEmail>james.l.williams@gmail.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-google-chart/tags/RELEASE_0_4_1/grails-google-chart-0.4.1.zip</file>
+    </release>
+    <release version='0.4'>
+      <title>Google Chart Plugin</title>
+      <author>ecspike</author>
+      <authorEmail>james.l.williams@gmail.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-google-chart/tags/RELEASE_0_4/grails-google-chart-0.4.zip</file>
+    </release>
+    <release version='0.5.2'>
+      <title>Google Chart Plugin</title>
+      <author>ecspike</author>
+      <authorEmail>james.l.williams@gmail.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-google-chart/tags/RELEASE_0_5_2/grails-google-chart-0.5.2.zip</file>
+    </release>
+    <release version='0.4.2'>
+      <title>Google Chart Plugin</title>
+      <author>ecspike</author>
+      <authorEmail>james.l.williams@gmail.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-google-chart/tags/RELEASE_0_4_2/grails-google-chart-0.4.2.zip</file>
+    </release>
+    <release version='0.4.6'>
+      <title>Google Chart Plugin</title>
+      <author>ecspike</author>
+      <authorEmail>james.l.williams@gmail.com</authorEmail>
+      <description />
+      <file>http://plugins.grails.org/grails-google-chart/tags/RELEASE_0_4_6/grails-google-chart-0.4.6.zip</file>
+    </release>
+    <release version='0.3'>
+      <title>Google Chart Plugin</title>
+      <author>ecspike</a

@@ -1,0 +1,147 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*            全局样式         */
+body{margin:0px; padding:0px; font-size:12px; font-family:"宋体"; line-height:24px; color:#333; background:#FFF url(../images/web_02.jpg) top repeat-x;}
+a{color:#333; text-decoration: none;}
+a:hover{ color:#F00}
+img{border:0px;}
+ul, p, dl, dt, dd{padding:0px; margin:0px;}
+li{  list-style: none outside none;}
+h1, h2, h3, h4, h5{ padding:0px; margin:0px;}
+h1{font-size:20px;}
+
+h5{font-size:12px;}
+div{ height:auto; overflow:hidden}
+
+.box ,topM, .banner,.link,.banquan{ width:960px; margin:0 auto;}
+
+/*            头部         */
+.top{ line-height:30px; padding:0 10px; }
+.wenzi{ width:200px; float:left}
+.wenzi2{ width:200px; float:right; text-align:right}
+.topM{ clear:both;}
+.logo{ height:70px; width:400px; padding:30px 0 0 110px; background:url(../images/logo.jpg) center left no-repeat; float:left}
+.mc{ font-size:32px;  color:#666; font-weight:bolder;}
+.zs{ color:#F00; line-height:35px; padding-left:5px;}
+.tel{ height:40px; width:330px; padding-left:100px; background:url(../images/tel.jpg) center left no-repeat; padding-top:60px;  font-size:22px; color:#F00; font-weight:bolder; float:right}
+.menu{ height:43px; line-height:43px; font-size:14px; font-weight:bold; text-align:center; clear:both }
+.menu ul li{ width:120px; float:left;}
+.menu ul li a{ color:#FFF; display:block;}
+.menu ul li a:hover{ color:#08936f; background:#FFF; }
+.flash{ margin:7px 0 15px; text-align:center}
+
+
+.banner{ margin-bottom:15px;}
+/*              banner 的左边板块    公司简介  仪器展示   检验服务  业界新闻            */
+.leftSy{ width:695px; float:left;}
+.about {  background:url(../images/web_13.jpg) top center no-repeat; padding:45px 15px 15px; border:1px solid #CCC; margin-bottom:15px;}
+.aboutNr{ width:415px; line-height:28px; float:right;margin-top: 10px;}
+.aboutNr a{float: right;margin-right: 10px;}
+
+/*             仪器展示 图片  轮播         */
+.shebei{ float:left; overflow:hidden ;  border:1px solid #CCC; margin-bottom:15px; width:693px;  clear:both }
+.more{ background:url(../images/web_24.jpg) center top no-repeat; height:45px; text-align:right; padding-right:10px; line-height:36px; font-family:"Arial", Gadget, sans-serif }
+.shebei ul li{ width:166px; height:180px; float:left; text-align:center;}
+.shebei img{ width:155px; height:150px; border:1px solid #ccc;}
+.shebei .title{ height:25px;}
+#demoLeft {
+float:left;
+overflow:hidden;
+width: 663px;
+margin-left:15px;
+}
+#demoLeft .indemo {
+float: left;
+width: 600%;
+}
+#demob1,#demob2 {
+float: left;
+}
+
+.news{ width:335px; float:left; border:1px solid #ccc; padding-bottom:10px;}
+.news2{ margin-left:20px;}
+.news ul { padding:0 15px;}
+.news ul li{ width:100%; line-height:30px;  float:left; background:url(../images/list.jpg) center left no-repeat; text-indent:20px; white-space: nowrap;}
+.more2{ background:url(../images/web_28.jpg) center top no-repeat;}
+.more3{ background:url(../images/web_30.jpg) center top no-repeat;}
+.date{ width:80px; float:right; text-align:right}
+
+
+/*              banner 的右边板块    最新公告   信息反馈   图片            */
+
+.rightSy{ width:242px; float:right}
+.ng{ height:168px;background:url(../images/web_15.jpg) center top no-repeat; padding:45px 15px 15px; border:1px solid #ccc; margin-bottom:15px;}
+.scrollImg{height:152px;}
+.more4{  background:url(../images/web_25.jpg) center top no-repeat;}
+
+.feedback{  border:1px solid #ccc; width:240px; float:none;height: 225px;}
+
+.r_pic{ margin-top:15px;}
+
+.bottom{ background:url(../images/web_39.jpg) top repeat-x; padding:15px 0 20px;}
+.banquan{ text-align:right}
+
+/*              子页面            */
+.left{ width:242px; float:left}
+.right{ width:693px; float:right; height:auto; overflow:hidden; border:1px solid #ccc; height:auto !important; min-height:710px;  height:710px; overflow:visible;}
+
+.guide{ background:url(../images/guide.jpg) center top no-repeat; line-height:38px; text-indent:35px;}
+.dq{ color:#FFF;}
+
+.inside{ padding:10px; height:auto; overflow:hidden;}
+
+/*              新闻列表页              */
+.newsList ul li{ line-height:36px; background:url(../images/list.jpg) left center no-repeat; padding-left:30px; border-bottom:1px dashed #CCC}
+
+/*                  分页              */
+.fenye { padding-top:25px; height:auto; overflow:hidden}
+.fenye a{display:block; float:left; width:16px; text-align:center; height:16px; line-height:16px; overflow:hidden; border:#B8C8D0 solid 1px; color:#032256; margin:0 3px; text-decoration:none;}
+
+/*              图片列表页              */
+.picList ul li{ width:217px; float:left; height:221px; height:200px; text-align:center }
+.picList ul li img{ width:200px; height:170px; border:1px solid #CCC}
+/*              表单页   表格             */
+.biaodan{ width:600px; line-height:30px; text-align:center; margin:0 auto;}
+.biaodan td{ border:1px solid #666;}
+.bdTitle{ color:#F00; text-align:center; padding:0; border-bottom:1px dashed #CCC; margin-bottom:20px;}
+#show-feedBack{margin: auto;text-align: center;height: 500px}
+/*asdtiang css start*/
+
+.showTime {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom:10px;
+}
+.content{
+    font-size: 16px;
+    text-align:left;
+    background: #FFFFFF;
+}
+.title{
+    text-align:center;
+}
+.loginHead{height: 40px;background-image:url(../images/loginT.jpg) }
+.loginTitle{text-align: center;display: block; font-size: 19px;padding-top:8px;text-align: center;color:#FFF;}
+.feedback-box{width: 550px;text-align: center;margin: auto}
+.feedback-form{width:500px}
+.feedback-head{background-color: #07AC81;height: 30px;margin-top: 10px;width:522px;}
+/*asdtiang css end*/
+/*log css*/
+.loginBox{ width:413px; margin:20px auto; margin-top:20px;margin-bottom:20px;background:#eee; font-size:12px;}
+.form{ height:auto; overflow:hidden;   padding:20px 0; padding-right:90px; text-align:right}
+.text{ height:44px;  font-size:14px; color:#333;}
+.span1{ line-height:44px;}
+.input1{ border:1px solid #999; width:185px; height:24px; margin:10px 0; vertical-align:middle}
+.text2{   margin-right:30px; line-height:24px; padding:5px;}
+.checkbox1{ height:15px; width:18px;  vertical-align:middle;}
+.text3 a{ color:#F33; text-decoration:underline}
+
+.btn{ padding:20px 0 0 55px; }
+.btn1{cursor: pointer; background:url(../images/btn.jpg) center no-repeat; width:110px; height:33px; font-size:14px; font-weight:bold; color:#FFF; border:0;}
+.re{ padding-left:10px;}
+.re a{ color:#09ac81; text-decoration:underline}
+
+/*                注册页面             */
+
+.text4{ line-height:32px;}

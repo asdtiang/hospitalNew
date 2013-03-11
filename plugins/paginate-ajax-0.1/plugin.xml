@@ -1,0 +1,24 @@
+<plugin name='paginate-ajax' version='0.1' grailsVersion='1.3.7 &gt; *'>
+  <author>asdtiang</author>
+  <authorEmail>asdtiangxia@163.com</authorEmail>
+  <title>ajax paginate</title>
+  <description>\
+ajax paginate
+</description>
+  <documentation>http://grails.org/plugin/paginate-ajax</documentation>
+  <type>PaginateAjaxGrailsPlugin</type>
+  <resources>
+    <resource>org.asdtiang.grails.paginate.TestAjaxController</resource>
+    <resource>org.asdtiang.grails.paginate.TestAjax</resource>
+    <resource>org.asdtiang.grails.paginateAjax.AjaxPaginateService</resource>
+    <resource>org.asdtiang.grails.paginateAjax.AjaxPaginateTagLib</resource>
+  </resources>
+  <repositories>
+    <repository name='grailsCentral' url='http://grails.org/plugins' />
+    <repository name='http://repo.grails.org/grails/core' url='http://repo.grails.org/grails/core/' />
+  </repositories>
+  <dependencies />
+  <plugins />
+  <runtimePluginRequirements />
+  <behavior />
+</plugin>
