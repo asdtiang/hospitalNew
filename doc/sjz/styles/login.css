@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+body{ background:#e6ecf8; font-size:12px;}
+body,div,dl,dt,dd,ul,ol,li,table,tr,th,tb,h1,h2,h3,h4,h5,h6,form,input,p,img{margin:0;padding:0; height:auto; overflow:hidden}
+.box{ width:413px; margin:0 auto; margin-top:200px;}
+.form{ height:auto; overflow:hidden; background:url(../images/loginBg.jpg) center repeat-y;  padding:20px 0; padding-right:90px; text-align:right}
+.text{ height:44px;  font-size:14px; color:#333;}
+.span1{ line-height:44px;}
+.input1{ border:1px solid #999; width:185px; height:24px; margin:10px 0; vertical-align:middle}
+.text2{   margin-right:30px; line-height:24px; padding:5px;}
+.checkbox1{ height:15px; width:18px;  vertical-align:middle;}
+.text3 a{ color:#F33; text-decoration:underline}
+
+.btn{ padding:20px 0 0 55px; }
+.btn1{ background:url(../images/btn.jpg) center no-repeat; width:110px; height:33px; font-size:14px; font-weight:bold; color:#FFF; border:0;}
+.re{ padding-left:10px;}
+.re a{ color:#09ac81; text-decoration:underline}
+
+/*                注册页面             */
+
+.text4{ line-height:32px;}
