@@ -101,26 +101,26 @@ table {
 .ui-widget { font-family: Verdana,Arial,sans-serif; font-size: 1.1em; }
 .ui-widget .ui-widget { font-size: 1em; }
 .ui-widget input, .ui-widget select, .ui-widget textarea, .ui-widget button { font-family: Verdana,Arial,sans-serif; font-size: 1em; }
-.ui-widget-content { border: 1px solid #aaaaaa; background: #ffffff url(plugins/spring-security-ui-0.2/css/smoothness/images/ui-bg_flat_75_ffffff_40x100.png) 50% 50% repeat-x; color: #222222; }
+.ui-widget-content { border: 1px solid #aaaaaa; background: #ffffff url(resource:/plugins/spring-security-ui-0.2/css/smoothness/images/ui-bg_flat_75_ffffff_40x100.png) 50% 50% repeat-x; color: #222222; }
 .ui-widget-content a { color: #222222; }
-.ui-widget-header { border: 1px solid #aaaaaa; background: #cccccc url(plugins/spring-security-ui-0.2/css/smoothness/images/ui-bg_highlight-soft_75_cccccc_1x100.png) 50% 50% repeat-x; color: #222222; font-weight: bold; }
+.ui-widget-header { border: 1px solid #aaaaaa; background: #cccccc url(resource:/plugins/spring-security-ui-0.2/css/smoothness/images/ui-bg_highlight-soft_75_cccccc_1x100.png) 50% 50% repeat-x; color: #222222; font-weight: bold; }
 .ui-widget-header a { color: #222222; }
 
 /* Interaction states
 ----------------------------------*/
-.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default { border: 1px solid #d3d3d3; background: #e6e6e6 url(plugins/spring-security-ui-0.2/css/smoothness/images/ui-bg_glass_75_e6e6e6_1x400.png) 50% 50% repeat-x; font-weight: normal; color: #555555; }
+.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default { border: 1px solid #d3d3d3; background: #e6e6e6 url(resource:/plugins/spring-security-ui-0.2/css/smoothness/images/ui-bg_glass_75_e6e6e6_1x400.png) 50% 50% repeat-x; font-weight: normal; color: #555555; }
 .ui-state-default a, .ui-state-default a:link, .ui-state-default a:visited { color: #555555; text-decoration: none; }
-.ui-state-hover, .ui-widget-content .ui-state-hover, .ui-widget-header .ui-state-hover, .ui-state-focus, .ui-widget-content .ui-state-focus, .ui-widget-header .ui-state-focus { border: 1px solid #999999; background: #dadada url(plugins/spring-security-ui-0.2/css/smoothness/images/ui-bg_glass_75_dadada_1x400.png) 50% 50% repeat-x; font-weight: normal; color: #212121; }
+.ui-state-hover, .ui-widget-content .ui-state-hover, .ui-widget-header .ui-state-hover, .ui-state-focus, .ui-widget-content .ui-state-focus, .ui-widget-header .ui-state-focus { border: 1px solid #999999; background: #dadada url(resource:/plugins/spring-security-ui-0.2/css/smoothness/images/ui-bg_glass_75_dadada_1x400.png) 50% 50% repeat-x; font-weight: normal; color: #212121; }
 .ui-state-hover a, .ui-state-hover a:hover { color: #212121; text-decoration: none; }
-.ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active { border: 1px solid #aaaaaa; background: #ffffff url(plugins/spring-security-ui-0.2/css/smoothness/images/ui-bg_glass_65_ffffff_1x400.png) 50% 50% repeat-x; font-weight: normal; color: #212121; }
+.ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active { border: 1px solid #aaaaaa; background: #ffffff url(resource:/plugins/spring-security-ui-0.2/css/smoothness/images/ui-bg_glass_65_ffffff_1x400.png) 50% 50% repeat-x; font-weight: normal; color: #212121; }
 .ui-state-active a, .ui-state-active a:link, .ui-state-active a:visited { color: #212121; text-decoration: none; }
 .ui-widget :active { outline: none; }
 
 /* Interaction Cues
 ----------------------------------*/
-.ui-state-highlight, .ui-widget-content .ui-state-highlight, .ui-widget-header .ui-state-highlight  {border: 1px solid #fcefa1; background: #fbf9ee url(plugins/spring-security-ui-0.2/css/smoothness/images/ui-bg_glass_55_fbf9ee_1x400.png) 50% 50% repeat-x; color: #363636; }
+.ui-state-highlight, .ui-widget-content .ui-state-highlight, .ui-widget-header .ui-state-highlight  {border: 1px solid #fcefa1; background: #fbf9ee url(resource:/plugins/spring-security-ui-0.2/css/smoothness/images/ui-bg_glass_55_fbf9ee_1x400.png) 50% 50% repeat-x; color: #363636; }
 .ui-state-highlight a, .ui-widget-content .ui-state-highlight a,.ui-widget-header .ui-state-highlight a { color: #363636; }
-.ui-state-error, .ui-widget-content .ui-state-error, .ui-widget-header .ui-state-error {border: 1px solid #cd0a0a; background: #fef1ec url(plugins/spring-security-ui-0.2/css/smoothness/images/ui-bg_glass_95_fef1ec_1x400.png) 50% 50% repeat-x; color: #cd0a0a; }
+.ui-state-error, .ui-widget-content .ui-state-error, .ui-widget-header .ui-state-error {border: 1px solid #cd0a0a; background: #fef1ec url(resource:/plugins/spring-security-ui-0.2/css/smoothness/images/ui-bg_glass_95_fef1ec_1x400.png) 50% 50% repeat-x; color: #cd0a0a; }
 .ui-state-error a, .ui-widget-content .ui-state-error a, .ui-widget-header .ui-state-error a { color: #cd0a0a; }
 .ui-state-error-text, .ui-widget-content .ui-state-error-text, .ui-widget-header .ui-state-error-text { color: #cd0a0a; }
 .ui-priority-primary, .ui-widget-content .ui-priority-primary, .ui-widget-header .ui-priority-primary { font-weight: bold; }
@@ -131,14 +131,14 @@ table {
 ----------------------------------*/
 
 /* states and images */
-.ui-icon { width: 16px; height: 16px; background-image: url(plugins/spring-security-ui-0.2/css/smoothness/images/ui-icons_222222_256x240.png); }
-.ui-widget-content .ui-icon {background-image: url(plugins/spring-security-ui-0.2/css/smoothness/images/ui-icons_222222_256x240.png); }
-.ui-widget-header .ui-icon {background-image: url(plugins/spring-security-ui-0.2/css/smoothness/images/ui-icons_222222_256x240.png); }
-.ui-state-default .ui-icon { background-image: url(plugins/spring-security-ui-0.2/css/smoothness/images/ui-icons_888888_256x240.png); }
-.ui-state-hover .ui-icon, .ui-state-focus .ui-icon {background-image: url(plugins/spring-security-ui-0.2/css/smoothness/images/ui-icons_454545_256x240.png); }
-.ui-state-active .ui-icon {background-image: url(plugins/spring-security-ui-0.2/css/smoothness/images/ui-icons_454545_256x240.png); }
-.ui-state-highlight .ui-icon {background-image: url(plugins/spring-security-ui-0.2/css/smoothness/images/ui-icons_2e83ff_256x240.png); }
-.ui-state-error .ui-icon, .ui-state-error-text .ui-icon {background-image: url(plugins/spring-security-ui-0.2/css/smoothness/images/ui-icons_cd0a0a_256x240.png); }
+.ui-icon { width: 16px; height: 16px; background-image: url(resource:/plugins/spring-security-ui-0.2/css/smoothness/images/ui-icons_222222_256x240.png); }
+.ui-widget-content .ui-icon {background-image: url(resource:/plugins/spring-security-ui-0.2/css/smoothness/images/ui-icons_222222_256x240.png); }
+.ui-widget-header .ui-icon {background-image: url(resource:/plugins/spring-security-ui-0.2/css/smoothness/images/ui-icons_222222_256x240.png); }
+.ui-state-default .ui-icon { background-image: url(resource:/plugins/spring-security-ui-0.2/css/smoothness/images/ui-icons_888888_256x240.png); }
+.ui-state-hover .ui-icon, .ui-state-focus .ui-icon {background-image: url(resource:/plugins/spring-security-ui-0.2/css/smoothness/images/ui-icons_454545_256x240.png); }
+.ui-state-active .ui-icon {background-image: url(resource:/plugins/spring-security-ui-0.2/css/smoothness/images/ui-icons_454545_256x240.png); }
+.ui-state-highlight .ui-icon {background-image: url(resource:/plugins/spring-security-ui-0.2/css/smoothness/images/ui-icons_2e83ff_256x240.png); }
+.ui-state-error .ui-icon, .ui-state-error-text .ui-icon {background-image: url(resource:/plugins/spring-security-ui-0.2/css/smoothness/images/ui-icons_cd0a0a_256x240.png); }
 
 /* positioning */
 .ui-icon-carat-1-n { background-position: 0 0; }
@@ -333,8 +333,8 @@ table {
 .ui-corner-all { -moz-border-radius: 4px; -webkit-border-radius: 4px; border-radius: 4px; }
 
 /* Overlays */
-.ui-widget-overlay { background: #aaaaaa url(plugins/spring-security-ui-0.2/css/smoothness/images/ui-bg_flat_0_aaaaaa_40x100.png) 50% 50% repeat-x; opacity: .30;filter:Alpha(Opacity=30); }
-.ui-widget-shadow { margin: -8px 0 0 -8px; padding: 8px; background: #aaaaaa url(plugins/spring-security-ui-0.2/css/smoothness/images/ui-bg_flat_0_aaaaaa_40x100.png) 50% 50% repeat-x; opacity: .30;filter:Alpha(Opacity=30); -moz-border-radius: 8px; -webkit-border-radius: 8px; border-radius: 8px; }/* Resizable
+.ui-widget-overlay { background: #aaaaaa url(resource:/plugins/spring-security-ui-0.2/css/smoothness/images/ui-bg_flat_0_aaaaaa_40x100.png) 50% 50% repeat-x; opacity: .30;filter:Alpha(Opacity=30); }
+.ui-widget-shadow { margin: -8px 0 0 -8px; padding: 8px; background: #aaaaaa url(resource:/plugins/spring-security-ui-0.2/css/smoothness/images/ui-bg_flat_0_aaaaaa_40x100.png) 50% 50% repeat-x; opacity: .30;filter:Alpha(Opacity=30); -moz-border-radius: 8px; -webkit-border-radius: 8px; border-radius: 8px; }/* Resizable
 ----------------------------------*/
 .ui-resizable { position: relative;}
 .ui-resizable-handle { position: absolute;font-size: 0.1px;z-index: 99999; display: block;}
@@ -363,7 +363,7 @@ table {
 .ui-accordion .ui-accordion-content-active { display: block; }/* Autocomplete
 ----------------------------------*/
 .ui-autocomplete { position: absolute; cursor: default; }	
-.ui-autocomplete-loading { background: white url('plugins/spring-security-ui-0.2/css/smoothness/images/ui-anim_basic_16x16.gif') right center no-repeat; }
+.ui-autocomplete-loading { background: white url('resource:/plugins/spring-security-ui-0.2/css/smoothness/images/ui-anim_basic_16x16.gif') right center no-repeat; }
 
 /* workarounds */
 * html .ui-autocomplete { width:1px; } /* without this, the menu expands to 100% in IE6 */
@@ -670,7 +670,7 @@ div.jGrowl div.jGrowl-closer {
 .jquery-safari-checkbox .mark {display: inline;}
 
 .jquery-safari-checkbox img {vertical-align: middle; width: 16px; height: 16px;}
-.jquery-safari-checkbox img{background: transparent url(plugins/spring-security-ui-0.2/images/safari-checkbox.png) no-repeat;}
+.jquery-safari-checkbox img{background: transparent url(resource:/plugins/spring-security-ui-0.2/images/safari-checkbox.png) no-repeat;}
 
 .jquery-safari-checkbox img{
 	background-position: 0px 0px;
@@ -897,7 +897,7 @@ ul.jd_menu li.jdm_active {
 ul.jd_menu_slate {
 	height: 19px;
 	background-color: #DDF;
-	background: url(plugins/spring-security-ui-0.2/css/gradient.png) repeat-x;
+	background: url(resource:/plugins/spring-security-ui-0.2/css/gradient.png) repeat-x;
 	border: 1px solid #70777D;
 	border-top: 1px solid #A5AFB8;
 	border-left: 1px solid #A5AFB8;
@@ -908,7 +908,7 @@ ul.jd_menu_vertical {
 	width: 200px;
 	height: auto;
 	clear: both;
-	background: url(plugins/spring-security-ui-0.2/css/gradient-vertical.png) repeat-x;
+	background: url(resource:/plugins/spring-security-ui-0.2/css/gradient-vertical.png) repeat-x;
 	background-color: #A5AFB8;
 }
 
@@ -942,7 +942,7 @@ ul.jd_menu_slate li.jdm_hover {
 	border-right: 1px solid #929AA1;
 	border-right: 1px solid #70777D;
 	color: #FFF;
-	background: url(plugins/spring-security-ui-0.2/css/gradient-alt.png) repeat-x;
+	background: url(resource:/plugins/spring-security-ui-0.2/css/gradient-alt.png) repeat-x;
 }
 
 ul.jd_menu_vertical li.jdm_active,
@@ -966,7 +966,7 @@ ul.jd_menu_slate ul li {
 }
 ul.jd_menu_slate ul li.jd_menu_active,
 ul.jd_menu_slate ul li.jd_menu_hover {
-	background: url(plugins/spring-security-ui-0.2/css/gradient.png) repeat-x;
+	background: url(resource:/plugins/spring-security-ui-0.2/css/gradient.png) repeat-x;
 	padding-top: 2px;
 	border-top: 1px solid #ABB5BC;
 	padding-bottom: 2px;
@@ -1083,19 +1083,19 @@ h2{
 }
 
 .paginate_disabled_previous {
-	background-image: url('plugins/spring-security-ui-0.2/images/back_disabled.jpg');
+	background-image: url('resource:/plugins/spring-security-ui-0.2/images/back_disabled.jpg');
 }
 
 .paginate_enabled_previous {
-	background-image: url('plugins/spring-security-ui-0.2/images/back_enabled.jpg');
+	background-image: url('resource:/plugins/spring-security-ui-0.2/images/back_enabled.jpg');
 }
 
 .paginate_disabled_next {
-	background-image: url('plugins/spring-security-ui-0.2/images/forward_disabled.jpg');
+	background-image: url('resource:/plugins/spring-security-ui-0.2/images/forward_disabled.jpg');
 }
 
 .paginate_enabled_next {
-	background-image: url('plugins/spring-security-ui-0.2/images/forward_enabled.jpg');
+	background-image: url('resource:/plugins/spring-security-ui-0.2/images/forward_enabled.jpg');
 }
 
 
@@ -1142,23 +1142,23 @@ table.display td.center {
  */
 
 .sorting_asc {
-	background: url('plugins/spring-security-ui-0.2/images/sort_asc.png') no-repeat center right;
+	background: url('resource:/plugins/spring-security-ui-0.2/images/sort_asc.png') no-repeat center right;
 }
 
 .sorting_desc {
-	background: url('plugins/spring-security-ui-0.2/images/sort_desc.png') no-repeat center right;
+	background: url('resource:/plugins/spring-security-ui-0.2/images/sort_desc.png') no-repeat center right;
 }
 
 .sorting {
-	background: url('plugins/spring-security-ui-0.2/images/sort_both.png') no-repeat center right;
+	background: url('resource:/plugins/spring-security-ui-0.2/images/sort_both.png') no-repeat center right;
 }
 
 .sorting_asc_disabled {
-	background: url('plugins/spring-security-ui-0.2/images/sort_asc_disabled.png') no-repeat center right;
+	background: url('resource:/plugins/spring-security-ui-0.2/images/sort_asc_disabled.png') no-repeat center right;
 }
 
 .sorting_desc_disabled {
-	background: url('plugins/spring-security-ui-0.2/images/sort_desc_disabled.png') no-repeat center right;
+	background: url('resource:/plugins/spring-security-ui-0.2/images/sort_desc_disabled.png') no-repeat center right;
 }
 
 /* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
