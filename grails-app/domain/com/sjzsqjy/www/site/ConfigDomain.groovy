@@ -17,7 +17,7 @@ class ConfigDomain {
      static mapping = {
 		description(type:"text")
     }
-    static enum ValueType {
+   public static enum ValueType {
 		Integer,
 		String
 	}

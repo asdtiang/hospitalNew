@@ -1,3 +1,5 @@
+import com.sjzsqjy.www.data.TestType
+import com.sjzsqjy.www.util.StaticMethod
 import org.codehaus.groovy.grails.web.servlet.GrailsApplicationAttributes
 import com.sjzsqjy.www.auth.HosRole
 import com.sjzsqjy.www.auth.HosUser
@@ -7,17 +9,19 @@ import com.sjzsqjy.www.statistics.Shop
 
 class BootStrap {
 	def springSecurityService
+    def freemarkerService
     def init = { servletContext ->
 		springSecurityService= servletContext.getAttribute(GrailsApplicationAttributes.APPLICATION_CONTEXT).getBean('springSecurityService')
 		createDefaultRoles()
 		createDefaultUsers()
 		createDefaultData()
 		createDefaultConfig()
+        initTestType()
 		
-		def configList =ConfigDomain.executeQuery("select mapName,mapValue from ConfigDomain ")
+		def configList =ConfigDomain.findAll()
 		def configMap=new HashMap<String,Object>()
 		configList.each {
-			configMap.put(it[0],it[1])
+            StaticMethod.addToConfigMap(configMap,it)
 		}
 		servletContext.configMap=configMap
     }
@@ -52,7 +56,11 @@ class BootStrap {
 		   }
 	   }
    }
-   
+   def initTestType(){
+       TestType.findAll().each {
+           freemarkerService.addOrUpdateTemplate(it.id+"",it.content)
+       }
+    }
    private createDefaultData(){
 	   if(!Shop.get(1)){
 		   new Shop(name:"默认店",address:"默认地址").save(flush:true);

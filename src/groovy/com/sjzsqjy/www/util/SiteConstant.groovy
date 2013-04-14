@@ -12,4 +12,5 @@ class SiteConstant {
    public static String DATA_TYPE_SAMPLE="SampleUser";
     public static String DATA_TYPE_BLOOD="BloodUser";
     public static String DATA_TYPE_TRACE="TraceUser";
+    public static String CLINIC_SHOW_DATE="CLINIC_SHOW_DATE";
 }

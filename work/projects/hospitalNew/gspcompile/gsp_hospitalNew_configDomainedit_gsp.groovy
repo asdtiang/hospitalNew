@@ -15,7 +15,7 @@ registerSitemeshPreprocessMode()
 printHtmlPart(0)
 createTagBody(1, {->
 printHtmlPart(1)
-invokeTag('captureMeta','sitemesh',5,['gsp_sm_xmlClosingForEmptyTag':(""),'name':("layout"),'content':("main")],-1)
+invokeTag('captureMeta','sitemesh',5,['gsp_sm_xmlClosingForEmptyTag':(""),'name':("layout"),'content':("admin")],-1)
 printHtmlPart(1)
 invokeTag('set','g',6,['var':("entityName"),'value':(message(code: 'configDomain.label', default: 'ConfigDomain'))],-1)
 printHtmlPart(1)
@@ -98,6 +98,6 @@ protected void init() {
 	this.jspTags = JSP_TAGS
 }
 public static final String CONTENT_TYPE = 'text/html;charset=UTF-8'
-public static final long LAST_MODIFIED = 1352121372564L
+public static final long LAST_MODIFIED = 1364822053277L
 public static final String DEFAULT_CODEC = null
 }

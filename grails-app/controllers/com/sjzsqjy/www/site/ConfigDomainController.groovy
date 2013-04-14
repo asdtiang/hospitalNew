@@ -1,5 +1,6 @@
 package com.sjzsqjy.www.site
 
+import com.sjzsqjy.www.util.StaticMethod
 import org.springframework.dao.DataIntegrityViolationException
 
 class ConfigDomainController {
@@ -101,6 +102,6 @@ class ConfigDomainController {
         }
     }
 	private updateConfig(configInstance){
-		servletContext.configMap.put(configInstance.mapName,configInstance.mapValue)
-	}
+        StaticMethod.addToConfigMap(servletContext.configMap,configInstance)
+    }
 }

@@ -61,6 +61,10 @@
         </li>
         <li class="controller"><g:link target="_blank" controller="requestmap">访问管理</g:link>
         </li>
+        <li class="controller"><g:link target="_blank" controller="customData">手动数据管理</g:link>
+               </li>
+        <li class="controller"><g:link target="_blank" controller="dataTemplate">手动数据模板管理</g:link>
+               </li>
         <li class="controller"><g:link target="_blank" controller="link">友情链接管理</g:link>
         </li>
     </ul>

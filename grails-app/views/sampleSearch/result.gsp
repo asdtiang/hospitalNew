@@ -79,7 +79,8 @@
 			${fieldValue(bean: resultInstance, field: "value")}
 			</td>
 
-			<td><g:if test="${resultInstance.isNormal==-1}">↓</g:if> <g:if
+			<td>
+                <g:if test="${resultInstance.isNormal==-1}">↓</g:if> <g:if
 				test="${resultInstance.isNormal==1}">↑</g:if></td>
 			<td>
 			${fieldValue(bean: resultInstance, field: "low")}-${fieldValue(bean: resultInstance, field: "high")}

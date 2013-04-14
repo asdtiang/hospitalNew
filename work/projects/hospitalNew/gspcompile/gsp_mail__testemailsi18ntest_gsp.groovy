@@ -5,9 +5,9 @@ import org.codehaus.groovy.grails.web.taglib.exceptions.GrailsTagException
 import org.springframework.web.util.*
 import grails.util.GrailsUtil
 
-@GrailsPlugin(name='mail', version='1.0')
+@GrailsPlugin(name='mail', version='1.0.1')
 class gsp_mail__testemailsi18ntest_gsp extends GroovyPage {
-public String getGroovyPageFileName() { "/WEB-INF/plugins/mail-1.0/grails-app/views/_testemails/i18ntest.gsp" }
+public String getGroovyPageFileName() { "/WEB-INF/plugins/mail-1.0.1/grails-app/views/_testemails/i18ntest.gsp" }
 public Object run() {
 Writer out = getOut()
 Writer codecOut = getCodecOut()
@@ -24,6 +24,6 @@ protected void init() {
 	this.jspTags = JSP_TAGS
 }
 public static final String CONTENT_TYPE = 'text/html'
-public static final long LAST_MODIFIED = 1332861664921L
+public static final long LAST_MODIFIED = 1294077116000L
 public static final String DEFAULT_CODEC = null
 }

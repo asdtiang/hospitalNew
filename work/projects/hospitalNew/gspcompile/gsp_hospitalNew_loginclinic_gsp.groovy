@@ -40,28 +40,22 @@ codecOut.print(session.clinicName)
 printHtmlPart(5)
 if(true && (session.clinicId!=null)) {
 printHtmlPart(5)
-invokeTag('include','g',19,['controller':("sampleUser"),'action':("listByClinicId"),'params':([clinicId:session.clinicId])],-1)
-printHtmlPart(8)
-invokeTag('include','g',21,['controller':("shiQiaoUser"),'action':("listByClinicId"),'params':([clinicId:session.clinicId])],-1)
-printHtmlPart(9)
-invokeTag('include','g',23,['controller':("traceUser"),'action':("listByClinicId"),'params':([clinicId:session.clinicId])],-1)
-printHtmlPart(10)
-invokeTag('include','g',25,['controller':("bloodUser"),'action':("listByClinicId"),'params':([clinicId:session.clinicId])],-1)
-printHtmlPart(5)
+invokeTag('include','g',19,['controller':("customData"),'action':("showByClinic"),'params':([clinicId:session.clinicId])],-1)
+printHtmlPart(0)
 }
 else {
-printHtmlPart(11)
+printHtmlPart(8)
 }
-printHtmlPart(12)
+printHtmlPart(9)
 })
-invokeTag('captureBody','sitemesh',27,[:],1)
-printHtmlPart(13)
+invokeTag('captureBody','sitemesh',21,[:],1)
+printHtmlPart(10)
 }
 public static final Map JSP_TAGS = new HashMap()
 protected void init() {
 	this.jspTags = JSP_TAGS
 }
 public static final String CONTENT_TYPE = 'text/html;charset=UTF-8'
-public static final long LAST_MODIFIED = 1353246148829L
+public static final long LAST_MODIFIED = 1365605297320L
 public static final String DEFAULT_CODEC = null
 }

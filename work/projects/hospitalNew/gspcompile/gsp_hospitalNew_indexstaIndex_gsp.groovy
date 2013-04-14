@@ -85,20 +85,26 @@ createClosureForHtmlPart(29, 3)
 invokeTag('link','g',62,['target':("_blank"),'controller':("requestmap")],3)
 printHtmlPart(20)
 createClosureForHtmlPart(30, 3)
-invokeTag('link','g',64,['target':("_blank"),'controller':("link")],3)
+invokeTag('link','g',64,['target':("_blank"),'controller':("customData")],3)
 printHtmlPart(31)
+createClosureForHtmlPart(32, 3)
+invokeTag('link','g',66,['target':("_blank"),'controller':("dataTemplate")],3)
+printHtmlPart(31)
+createClosureForHtmlPart(33, 3)
+invokeTag('link','g',68,['target':("_blank"),'controller':("link")],3)
+printHtmlPart(34)
 })
-invokeTag('ifAllGranted','sec',69,['roles':("ROLE_ADMIN")],2)
+invokeTag('ifAllGranted','sec',73,['roles':("ROLE_ADMIN")],2)
 printHtmlPart(2)
 })
-invokeTag('captureBody','sitemesh',70,[:],1)
-printHtmlPart(32)
+invokeTag('captureBody','sitemesh',74,[:],1)
+printHtmlPart(35)
 }
 public static final Map JSP_TAGS = new HashMap()
 protected void init() {
 	this.jspTags = JSP_TAGS
 }
 public static final String CONTENT_TYPE = 'text/html;charset=UTF-8'
-public static final long LAST_MODIFIED = 1345304410224L
+public static final long LAST_MODIFIED = 1365771307124L
 public static final String DEFAULT_CODEC = null
 }

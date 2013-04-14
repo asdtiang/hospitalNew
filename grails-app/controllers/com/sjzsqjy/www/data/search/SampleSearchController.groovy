@@ -1,6 +1,8 @@
 package com.sjzsqjy.www.data.search
 
-import java.text.NumberFormat 
+import grails.converters.JSON
+
+import java.text.NumberFormat
 import com.sjzsqjy.www.result.format.SampleResultFormat
 import com.sjzsqjy.www.data.sample.SampleUser
 import com.sjzsqjy.www.data.sample.SampleResult
@@ -231,6 +233,9 @@ class SampleSearchController {
             }
         }
         resultList1.sort()
+        JSON.use('deep')
+        def jsonData = [resultList:resultList1,patient:patient,date:formatDate(patient.sampleId)] as JSON
+        println jsonData
         render view:"result",model:[resultList:resultList1,patient:patient,date:formatDate(patient.sampleId)]
     }
 	/**

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<web-app xmlns="http://java.sun.com/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadata-complete="true" version="2.5" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd">
+<?xml version="1.0" encoding="UTF-8"?><web-app xmlns="http://java.sun.com/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadata-complete="true" version="2.5" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd">
 
     <display-name>/hospitalNew-development-0.1</display-name>
 
@@ -25,6 +24,22 @@
         <filter-name>sitemesh</filter-name>
         <filter-class>org.codehaus.groovy.grails.web.sitemesh.GrailsPageFilter</filter-class>
     </filter>
+  <filter>
+    <filter-name>DeclaredResourcesPluginFilter</filter-name>
+    <filter-class>org.grails.plugin.resource.ProcessingFilter</filter-class>
+  </filter>
+  <filter>
+    <filter-name>AdHocResourcesPluginFilter</filter-name>
+    <filter-class>org.grails.plugin.resource.ProcessingFilter</filter-class>
+    <init-param>
+      <param-name>adhoc</param-name>
+      <param-value>true</param-value>
+    </init-param>
+  </filter>
+  <filter>
+    <filter-name>ResourcesDevModeFilter</filter-name>
+    <filter-class>org.grails.plugin.resource.DevModeSanityFilter</filter-class>
+  </filter>
 
     <filter>
         <filter-name>charEncodingFilter</filter-name>
@@ -50,6 +65,14 @@
     <filter-name>grailsWebRequest</filter-name>
     <filter-class>org.codehaus.groovy.grails.web.servlet.mvc.GrailsWebRequestFilter</filter-class>
   </filter>
+  <filter>
+    <filter-name>grailsCacheFilter</filter-name>
+    <filter-class>org.springframework.web.filter.DelegatingFilterProxy</filter-class>
+    <init-param>
+      <param-name>targetFilterLifecycle</param-name>
+      <param-value>true</param-value>
+    </init-param>
+  </filter>
 
     
 
@@ -57,6 +80,26 @@
         <filter-name>charEncodingFilter</filter-name>
         <url-pattern>/*</url-pattern>
     </filter-mapping>
+  <filter-mapping>
+    <filter-name>DeclaredResourcesPluginFilter</filter-name>
+    <url-pattern>/static/*</url-pattern>
+  </filter-mapping>
+  <filter-mapping>
+    <filter-name>AdHocResourcesPluginFilter</filter-name>
+    <url-pattern>/images/*</url-pattern>
+  </filter-mapping>
+  <filter-mapping>
+    <filter-name>AdHocResourcesPluginFilter</filter-name>
+    <url-pattern>/css/*</url-pattern>
+  </filter-mapping>
+  <filter-mapping>
+    <filter-name>AdHocResourcesPluginFilter</filter-name>
+    <url-pattern>/js/*</url-pattern>
+  </filter-mapping>
+  <filter-mapping>
+    <filter-name>AdHocResourcesPluginFilter</filter-name>
+    <url-pattern>/plugins/*</url-pattern>
+  </filter-mapping>
   <filter-mapping>
     <filter-name>hiddenHttpMethod</filter-name>
     <url-pattern>/*</url-pattern>
@@ -74,7 +117,11 @@
     <filter-name>springSecurityFilterChain</filter-name>
     <url-pattern>/*</url-pattern>
     <dispatcher>ERROR</dispatcher>
-    <dispatcher>FORWARD</dispatcher>
+    <dispatcher>REQUEST</dispatcher>
+  </filter-mapping>
+  <filter-mapping>
+    <filter-name>ResourcesDevModeFilter</filter-name>
+    <url-pattern>/*</url-pattern>
     <dispatcher>REQUEST</dispatcher>
   </filter-mapping>
   <filter-mapping>
@@ -88,6 +135,12 @@
     <url-pattern>/*</url-pattern>
     <dispatcher>FORWARD</dispatcher>
     <dispatcher>REQUEST</dispatcher>
+  </filter-mapping>
+  <filter-mapping>
+    <filter-name>grailsCacheFilter</filter-name>
+    <url-pattern>*.dispatch</url-pattern>
+    <dispatcher>FORWARD</dispatcher>
+    <dispatcher>INCLUDE</dispatcher>
   </filter-mapping>
   <listener>
     <listener-class>org.codehaus.groovy.grails.plugins.log4j.web.util.Log4jConfigListener</listener-class>
@@ -167,24 +220,5 @@
     <error-code>404</error-code>
     <location>/grails-errorhandler</location>
   </error-page>
-
-    <jsp-config>
-        <taglib>
-            <taglib-uri>http://java.sun.com/jsp/jstl/core</taglib-uri>
-            <taglib-location>/WEB-INF/tld/c.tld</taglib-location>
-        </taglib>
-        <taglib>
-            <taglib-uri>http://java.sun.com/jsp/jstl/fmt</taglib-uri>
-            <taglib-location>/WEB-INF/tld/fmt.tld</taglib-location>
-        </taglib>
-        <taglib>
-            <taglib-uri>http://www.springframework.org/tags</taglib-uri>
-            <taglib-location>/WEB-INF/tld/spring.tld</taglib-location>
-        </taglib>
-        <taglib>
-            <taglib-uri>http://grails.codehaus.org/tags</taglib-uri>
-            <taglib-location>/WEB-INF/tld/grails.tld</taglib-location>
-        </taglib>
-    </jsp-config>
 
 </web-app>

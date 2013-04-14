@@ -141,7 +141,6 @@ class RegistrationCodeController extends AbstractS2UiController {
 			flash.error = "${message(code: 'default.not.found.message', args: [message(code: 'registrationCode.label', default: 'RegistrationCode'), params.id])}"
 			redirect action: search
 		}
-
 		registrationCode
 	}
 }

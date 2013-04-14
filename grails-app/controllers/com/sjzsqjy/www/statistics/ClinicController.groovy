@@ -1,5 +1,9 @@
 package com.sjzsqjy.www.statistics
 
+import com.sjzsqjy.www.auth.HosRole
+import com.sjzsqjy.www.auth.UserClinic
+import com.sjzsqjy.www.util.StaticMethod
+
 class ClinicController {
 
     static allowedMethods = [save: "POST", update: "POST", delete: "POST"]
@@ -25,6 +29,7 @@ class ClinicController {
         if (clinicInstance.save(flush: true)) {
             flash.message = "${message(code: 'default.created.message', args: [message(code: 'clinic.label', default: 'Clinic'), clinicInstance.id])}"
             redirect(action: "show", id: clinicInstance.id)
+            StaticMethod.addClinicToUser(clinicInstance,HosRole.get(1))
         }
         else {
             render(view: "create", model: [clinicInstance: clinicInstance])
@@ -86,6 +91,7 @@ class ClinicController {
             try {
                 clinicInstance.delete(flush: true)
                 flash.message = "${message(code: 'default.deleted.message', args: [message(code: 'clinic.label', default: 'Clinic'),  params.id])}"
+                UserClinic.findByClinic(clinicInstance).delete()
                 redirect(action: "list")
             }
             catch (org.springframework.dao.DataIntegrityViolationException e) {

@@ -11,7 +11,7 @@ import com.sjzsqjy.www.tools.SafeProperties
 
 
 class TestController {
-    def index = { }
+
     def createMessage={
         if (request.getMethod() == "POST" && params.className) {
             def object = PageUtil.getInstanceByName(params.className.trim())
@@ -65,4 +65,17 @@ class TestController {
        }
        render result as JSON
     }
+
+    /**
+     * test freemarker
+     */
+    def index = {
+        println "freemarker controller ok!!"
+        render view: 'index.ftl', model: [name: 'Jake', state: 'Missouri']
+      }
+
+    def frerMarker = {
+            println "freemarker controller ok!!"
+            render view: 'frerMarker'
+          }
 }

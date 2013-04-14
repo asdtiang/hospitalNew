@@ -18,13 +18,8 @@
 <body>
 欢迎<sec:username/>：<g:if test="${session.clinicName!=null}">${session.clinicName}</g:if>
 <g:if test="${session.clinicId!=null}">
-<g:include controller="sampleUser" action="listByClinicId" params="[clinicId:session.clinicId]"/>
-   <!-- 临床检验报告单：-->
-<g:include controller="shiQiaoUser" action="listByClinicId" params="[clinicId:session.clinicId]"/>
-<!--微量元素检测检验报告单：   -->
-<g:include controller="traceUser" action="listByClinicId" params="[clinicId:session.clinicId]"/>
-<!--普利生仪器中心血流变仪报告单：-->
-<g:include controller="bloodUser" action="listByClinicId" params="[clinicId:session.clinicId]"/>
+<g:include controller="customData" action="showByClinic" params="[clinicId:session.clinicId]"/>
+
 </g:if>
 <g:else>欢迎联系我们，我们尽快回复您</g:else>
 <br>

@@ -11,7 +11,7 @@ class AuthKey {
         clientKey blank: false, unique: true
     }
 
-    enum DataType {
+   static enum DataType {
         SAMPLE, SHIQIAO, TRACE,BLOOD
     }
 

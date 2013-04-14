@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/HospitalNew.iml" filepath="$PROJECT_DIR$/HospitalNew.iml" />
-      <module fileurl="file://$PROJECT_DIR$/HospitalNew-grailsPlugins.iml" filepath="$PROJECT_DIR$/HospitalNew-grailsPlugins.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hospitalNew.iml" filepath="$PROJECT_DIR$/hospitalNew.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hospitalNew-grailsPlugins.iml" filepath="$PROJECT_DIR$/hospitalNew-grailsPlugins.iml" />
     </modules>
   </component>
 </project>

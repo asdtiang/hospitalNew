@@ -16,7 +16,7 @@ printHtmlPart(0)
 printHtmlPart(1)
 createTagBody(1, {->
 printHtmlPart(2)
-invokeTag('captureMeta','sitemesh',6,['gsp_sm_xmlClosingForEmptyTag':(""),'name':("layout"),'content':("main")],-1)
+invokeTag('captureMeta','sitemesh',6,['gsp_sm_xmlClosingForEmptyTag':(""),'name':("layout"),'content':("admin")],-1)
 printHtmlPart(2)
 invokeTag('set','g',7,['var':("entityName"),'value':(message(code: 'configDomain.label', default: 'ConfigDomain'))],-1)
 printHtmlPart(2)
@@ -92,6 +92,6 @@ protected void init() {
 	this.jspTags = JSP_TAGS
 }
 public static final String CONTENT_TYPE = 'text/html;charset=UTF-8'
-public static final long LAST_MODIFIED = 1352121372691L
+public static final long LAST_MODIFIED = 1364822021770L
 public static final String DEFAULT_CODEC = null
 }

@@ -57,6 +57,21 @@ class LoginController {
 		                           rememberMeParameter: config.rememberMe.parameter]
 	}
 
+    def authIndex = {
+
+    		def config = SpringSecurityUtils.securityConfig
+    		if (springSecurityService.isLoggedIn()) {
+    			redirect uri: config.successHandler.defaultTargetUrl
+    			return
+    		}
+
+    		String view = 'authIndex'
+    		String postUrl = "${request.contextPath}${config.apf.filterProcessesUrl}"
+    		println postUrl
+    		render view: view, model: [postUrl: postUrl,
+    		                           rememberMeParameter: config.rememberMe.parameter]
+    	}
+
 	/**
 	 * The redirect action for Ajax requests.
 	 */
@@ -154,8 +169,8 @@ class LoginController {
                return
            }
            else{
-               session.putValue("clinicId",clinic.id[0])
-               session.putValue("clinicName",clinic.name)
+               session.putAt("clinicId",clinic.id[0])
+               session.putAt("clinicName",clinic.name)
            }
            render view: "clinic",model: [clinicName:user.username]
        }
